@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "decorations",
+	"version": "${version}",
+	"name": "Decorations",
+	"description": "Adds Decorations to Minecraft!",
+	"authors": [
+		"slyzowo"
+	],
+	"contact": {
+		"homepage": "https://slyzowo.net",
+		"sources": "github repo"
+	},
+	"license": "None",
+	"icon": "assets/decorations/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.slyzowo.decorations.Decorations"
+		],
+		"fabric-datagen": [
+			"net.slyzowo.decorations.DecorationsDataGenerator"
+		],
+		"client": [
+			"net.slyzowo.decorations.DecorationsClient"
+		]
+	},
+	"mixins": [
+		"decorations.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
