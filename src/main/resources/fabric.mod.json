@@ -9,9 +9,9 @@
 	],
 	"contact": {
 		"homepage": "https://slyzowo.net",
-		"sources": "github repo"
+		"sources": "https://github.com/slyzowo/Decorations"
 	},
-	"license": "None",
+	"license": "MIT",
 	"icon": "assets/decorations/icon.png",
 	"environment": "*",
 	"entrypoints": {
