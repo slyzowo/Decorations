@@ -54,12 +54,14 @@ public class ModBlocks {
                           .blockVision(Blocks::never)
           ));
 
+/*
   public static final Block SCRATCHED_GLASS_PANE = registerBlock("scratched_glass_pane",
           new PaneBlock(AbstractBlock.Settings.create()
                   .instrument(NoteBlockInstrument.HAT)
                   .strength(0.3F)
                   .sounds(BlockSoundGroup.GLASS)
                   .nonOpaque()));
+*/
 
   public static final Block COPPER_REINFORCED_GLASS = registerBlock("copper_reinforced_glass",
           new TransparentBlock(
@@ -79,7 +81,7 @@ public class ModBlocks {
                   AbstractBlock.Settings.create()
                           .instrument(NoteBlockInstrument.HAT)
                           .strength(0.3F)
-                          .sounds(BlockSoundGroup.GLASS)
+                          .sounds(BlockSoundGroup.METAL)
                           .nonOpaque()
                           .allowsSpawning(Blocks::never)
                           .solidBlock(Blocks::never)
@@ -92,7 +94,7 @@ public class ModBlocks {
                   AbstractBlock.Settings.create()
                           .instrument(NoteBlockInstrument.HAT)
                           .strength(0.3F)
-                          .sounds(BlockSoundGroup.GLASS)
+                          .sounds(BlockSoundGroup.METAL)
                           .nonOpaque()
                           .allowsSpawning(Blocks::never)
                           .solidBlock(Blocks::never)
@@ -105,7 +107,7 @@ public class ModBlocks {
                   AbstractBlock.Settings.create()
                           .instrument(NoteBlockInstrument.HAT)
                           .strength(0.3F)
-                          .sounds(BlockSoundGroup.GLASS)
+                          .sounds(BlockSoundGroup.METAL)
                           .nonOpaque()
                           .allowsSpawning(Blocks::never)
                           .solidBlock(Blocks::never)
@@ -118,7 +120,7 @@ public class ModBlocks {
                   AbstractBlock.Settings.create()
                           .instrument(NoteBlockInstrument.HAT)
                           .strength(0.3F)
-                          .sounds(BlockSoundGroup.GLASS)
+                          .sounds(BlockSoundGroup.METAL)
                           .nonOpaque()
                           .allowsSpawning(Blocks::never)
                           .solidBlock(Blocks::never)

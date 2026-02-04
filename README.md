@@ -99,7 +99,6 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Iron Reinforced Glass
 - Gold Reinforced Glass
 - Diamond Reinforced Glass
-- Netherite Reinforced Glass
 - Obsidian Reinforced Glass
 
 ### Wool Types
