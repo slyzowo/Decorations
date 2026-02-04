@@ -12,7 +12,7 @@ import net.slyzowo.decorations.Decorations;
 
 public class ModBlocks {
 
-  public static final Block RAINBOW_WOOL = registerBlock("rainbow_wool",
+  public static final Block PRIDE_WOOL = registerBlock("pride_wool",
           new Block(AbstractBlock.Settings.create()
                   .mapColor(MapColor.RED)
                   .instrument(NoteBlockInstrument.GUITAR)
@@ -67,8 +67,9 @@ public class ModBlocks {
           new TransparentBlock(
                   AbstractBlock.Settings.create()
                           .instrument(NoteBlockInstrument.HAT)
-                          .strength(0.3F)
+                          .strength(5.0F, 6.0F)
                           .sounds(BlockSoundGroup.GLASS)
+                          .mapColor(MapColor.ORANGE)
                           .nonOpaque()
                           .allowsSpawning(Blocks::never)
                           .solidBlock(Blocks::never)
@@ -80,8 +81,9 @@ public class ModBlocks {
           new TransparentBlock(
                   AbstractBlock.Settings.create()
                           .instrument(NoteBlockInstrument.HAT)
-                          .strength(0.3F)
-                          .sounds(BlockSoundGroup.METAL)
+                          .strength(5.0F, 6.0F)
+                          .sounds(BlockSoundGroup.GLASS)
+                          .mapColor(MapColor.IRON_GRAY)
                           .nonOpaque()
                           .allowsSpawning(Blocks::never)
                           .solidBlock(Blocks::never)
@@ -93,8 +95,9 @@ public class ModBlocks {
           new TransparentBlock(
                   AbstractBlock.Settings.create()
                           .instrument(NoteBlockInstrument.HAT)
-                          .strength(0.3F)
-                          .sounds(BlockSoundGroup.METAL)
+                          .strength(5.0F, 6.0F)
+                          .sounds(BlockSoundGroup.GLASS)
+                          .mapColor(MapColor.GOLD)
                           .nonOpaque()
                           .allowsSpawning(Blocks::never)
                           .solidBlock(Blocks::never)
@@ -106,8 +109,9 @@ public class ModBlocks {
           new TransparentBlock(
                   AbstractBlock.Settings.create()
                           .instrument(NoteBlockInstrument.HAT)
-                          .strength(0.3F)
-                          .sounds(BlockSoundGroup.METAL)
+                          .strength(5.0F, 6.0F)
+                          .sounds(BlockSoundGroup.GLASS)
+                          .mapColor(MapColor.DIAMOND_BLUE)
                           .nonOpaque()
                           .allowsSpawning(Blocks::never)
                           .solidBlock(Blocks::never)
@@ -118,9 +122,10 @@ public class ModBlocks {
   public static final Block OBSIDIAN_REINFORCED_GLASS = registerBlock("obsidian_reinforced_glass",
           new TransparentBlock(
                   AbstractBlock.Settings.create()
+                          .mapColor(MapColor.BLACK)
                           .instrument(NoteBlockInstrument.HAT)
-                          .strength(0.3F)
-                          .sounds(BlockSoundGroup.METAL)
+                          .strength(50.0F, 1200.0F)
+                          .sounds(BlockSoundGroup.GLASS)
                           .nonOpaque()
                           .allowsSpawning(Blocks::never)
                           .solidBlock(Blocks::never)
