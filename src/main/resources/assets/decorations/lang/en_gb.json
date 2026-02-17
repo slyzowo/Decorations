@@ -1,4 +1,83 @@
 {
+  "itemgroup.decorations.decorations_group" : "Decorations",
+
+  "block.decorations.oak_chair" : "Oak Chair",
+  "block.decorations.spruce_chair" : "Spruce Chair",
+  "block.decorations.birch_chair" : "Birch Chair",
+  "block.decorations.jungle_chair" : "Jungle Chair",
+  "block.decorations.acacia_chair" : "Acacia Chair",
+  "block.decorations.dark_oak_chair" : "Dark Oak Chair",
+  "block.decorations.mangrove_chair" : "Mangrove Chair",
+  "block.decorations.cherry_chair" : "Cherry Chair",
+  "block.decorations.pale_oak_chair" : "Pale Oak Chair",
+  "block.decorations.bamboo_chair" : "Bamboo Chair",
+  "block.decorations.crimson_chair" : "Crimson Chair",
+  "block.decorations.warped_chair" : "Warped Chair",
+
+  "block.decorations.white_cushioned_oak_chair" : "White Cushioned Oak Chair",
+  "block.decorations.pink_cushioned_oak_chair" : "Pink Cushioned Oak Chair",
+  "block.decorations.red_cushioned_oak_chair" : "Red Cushioned Oak Chair",
+  "block.decorations.orange_cushioned_oak_chair" : "Orange Cushioned Oak Chair",
+  "block.decorations.yellow_cushioned_oak_chair" : "Yellow Cushioned Oak Chair",
+  "block.decorations.green_cushioned_oak_chair" : "Green Cushioned Oak Chair",
+  "block.decorations.blue_cushioned_oak_chair" : "Blue Cushioned Oak Chair",
+  "block.decorations.light_blue_cushioned_oak_chair" : "Light Blue Cushioned Oak Chair",
+  "block.decorations.purple_cushioned_oak_chair" : "Purple Cushioned Oak Chair",
+  "block.decorations.magenta_cushioned_oak_chair" : "Magenta Cushioned Oak Chair",
+  "block.decorations.brown_cushioned_oak_chair" : "Brown Cushioned Oak Chair",
+  "block.decorations.light_gray_cushioned_oak_chair" : "Light Grey Cushioned Oak Chair",
+  "block.decorations.gray_cushioned_oak_chair" : "Grey Cushioned Oak Chair",
+  "block.decorations.black_cushioned_oak_chair" : "Black Cushioned Oak Chair",
+
+  "block.decorations.cushioned_spruce_chair" : "Cushioned Spruce Chair",
+
+  "block.decorations.cushioned_birch_chair" : "Cushioned Birch Chair",
+
+  "block.decorations.cushioned_jungle_chair" : "Cushioned Jungle Chair",
+
+  "block.decorations.cushioned_acacia_chair" : "Cushioned Acacia Chair",
+
+  "block.decorations.cushioned_dark_oak_chair" : "Cushioned Dark Oak Chair",
+
+  "block.decorations.cushioned_mangrove_chair" : "Cushioned Mangrove Chair",
+
+  "block.decorations.cushioned_cherry_chair" : "Cushioned Cherry Chair",
+
+  "block.decorations.cushioned_pale_oak_chair" : "Cushioned Pale Oak Chair",
+
+  "block.decorations.cushioned_bamboo_chair" : "Cushioned Bamboo Chair",
+
+  "block.decorations.cushioned_crimson_chair" : "Cushioned Crimson Chair",
+
+  "block.decorations.cushioned_warped_chair" : "Cushioned Warped Chair",
+
+
+  "block.decorations.oak_stool" : "Oak Stool",
+  "block.decorations.spruce_stool" : "Spruce Stool",
+  "block.decorations.birch_stool" : "Birch Stool",
+  "block.decorations.jungle_stool" : "Jungle Stool",
+  "block.decorations.acacia_stool" : "Acacia Stool",
+  "block.decorations.dark_oak_stool" : "Dark Oak Stool",
+  "block.decorations.mangrove_stool" : "Mangrove Stool",
+  "block.decorations.cherry_stool" : "Cherry Stool",
+  "block.decorations.pale_oak_stool" : "Pale Oak Stool",
+  "block.decorations.bamboo_stool" : "Bamboo Stool",
+  "block.decorations.crimson_stool" : "Crimson Stool",
+  "block.decorations.warped_stool" : "Warped Stool",
+
+  "block.decorations.oak_table" : "Oak Table",
+  "block.decorations.spruce_table" : "Spruce Table",
+  "block.decorations.birch_table" : "Birch Table",
+  "block.decorations.jungle_table" : "Jungle Table",
+  "block.decorations.acacia_table" : "Acacia Table",
+  "block.decorations.dark_oak_table" : "Dark Oak Table",
+  "block.decorations.mangrove_table" : "Mangrove Table",
+  "block.decorations.cherry_table" : "Cherry Table",
+  "block.decorations.pale_oak_table" : "Pale Oak Table",
+  "block.decorations.bamboo_table" : "Bamboo Table",
+  "block.decorations.crimson_table" : "Crimson Table",
+  "block.decorations.warped_table" : "Warped Table",
+
   "block.decorations.clear_glass" : "Clear Glass",
   "block.decorations.scratched_glass" : "Scratched Glass",
   "block.decorations.copper_reinforced_glass" : "Copper Reinforced Glass",
@@ -6,6 +85,7 @@
   "block.decorations.gold_reinforced_glass" : "Gold Reinforced Glass",
   "block.decorations.diamond_reinforced_glass" : "Diamond Reinforced Glass",
   "block.decorations.obsidian_reinforced_glass" : "Obsidian Reinforced Glass",
+
   "block.decorations.pride_wool" : "Pride Wool",
   "block.decorations.transgender_wool" : "Transgender Wool"
 }

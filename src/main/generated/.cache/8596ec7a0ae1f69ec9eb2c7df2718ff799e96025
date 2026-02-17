@@ -1,0 +1,4 @@
+// 1.21	2026-02-17T00:13:27.6786416	Decorations/Tags for minecraft:block
+9aeb63724d05fb2b04c3bba13bfc9a6a3c3a2487 data\minecraft\tags\block\needs_diamond_tool.json
+82c4a13db15d14f60e7e22fc9552296cc7acba0f data\minecraft\tags\block\dampens_vibrations.json
+a40b3c3e6d8ac7eac4dfb0dd03fac5ac22b09f8c data\minecraft\tags\block\mineable\pickaxe.json

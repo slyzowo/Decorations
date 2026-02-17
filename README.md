@@ -30,65 +30,98 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 # Mod Content
 
 ### Chairs
-- Oak Wooden Chair
-- Spruce Wooden Chair
-- Birch Wooden Chair
-- Jungle Wooden Chair
-- Acacia Wooden Chair
-- Dark Oak Wooden Chair
-- Mangrove Wooden Chair
-- Cherry Wooden Chair
-- Pale Aak Wooden Chair
-- Crimson Wooden Chair
-- Warped Wooden Chair
-- Cushioned Oak Wooden Chair
-- Cushioned Spruce Wooden Chair
-- Cushioned Birch Wooden Chair
-- Cushioned Jungle Wooden Chair
-- Cushioned Acacia Wooden Chair
-- Cushioned Dark Oak Wooden Chair
-- Cushioned Mangrove Wooden Chair
-- Cushioned Cherry Wooden Chair
-- Cushioned Pale Aak Wooden Chair
-- Cushioned Crimson Wooden Chair
-- Cushioned Warped Wooden Chair
+- Oak Chair
+- Stripped Oak Chair
+- <dye_color> Cushioned Oak Chair
+- Spruce Chair
+- Stripped Spruce Chair
+- <dye_color> Cushioned Spruce Chair
+- Birch Chair
+- Stripped Birch Chair
+- <dye_color> Cushioned Birch Chair
+- Jungle Chair
+- Stripped Jungle Chair
+- <dye_color> Cushioned Jungle Chair
+- Acacia Chair
+- Stripped Acacia Chair
+- <dye_color> Cushioned Acacia Chair
+- Dark Oak Chair
+- Stripped Dark Oak Chair
+- <dye_color> Cushioned Dark Oak Chair
+- Mangrove Chair
+- Stripped Mangrove Chair
+- <dye_color> Cushioned Mangrove Chair
+- Cherry Chair
+- Stripped Cherry Chair
+- <dye_color> Cushioned Cherry Chair
+- Pale Oak Chair
+- Stripped Pale Oak Chair
+- <dye_color> Cushioned Pale Oak Chair
+- Crimson Chair
+- Stripped Crimson Chair
+- <dye_color> Cushioned Crimson Chair
+- Warped Chair
+- Stripped Warped Chair
+- <dye_color> Cushioned Warped Chair
 
 ### Stools
-- Oak Wooden Stool
-- Spruce Wooden Stool
-- Birch Wooden Stool
-- Jungle Wooden Stool
-- Acacia Wooden Stool
-- Dark Oak Wooden Stool
-- Mangrove Wooden Stool
-- Cherry Wooden Stool
-- Pale Oak Wooden Stool
-- Crimson Wooden Stool
-- Warped Wooden Stool
-- Cushioned Oak Wooden Stool
-- Cushioned Spruce Wooden Stool
-- Cushioned Birch Wooden Stool
-- Cushioned Jungle Wooden Stool
-- Cushioned Acacia Wooden Stool
-- Cushioned Dark Oak Wooden Stool
-- Cushioned Mangrove Wooden Stool
-- Cushioned Cherry Wooden Stool
-- Cushioned Pale Aak Wooden Stool
-- Cushioned Crimson Wooden Stool
-- Cushioned Warped Wooden Stool
+- Oak Stool
+- Stripped Oak Stool
+- <dye_color> Cushioned Oak Stool
+- Spruce Stool
+- Stripped Spruce Stool
+- <dye_color> Cushioned Spruce Stool
+- Birch Stool
+- Stripped Birch Stool
+- <dye_color> Cushioned Birch Stool
+- Jungle Stool
+- Stripped Jungle Stool
+- <dye_color> Cushioned Jungle Stool
+- Acacia Stool
+- Stripped Acacia Stool
+- <dye_color> Cushioned Acacia Stool
+- Dark Oak Stool
+- Stripped Dark Oak Stool
+- <dye_color> Cushioned Dark Oak Stool
+- Mangrove Stool
+- Stripped Mangrove Stool
+- <dye_color> Cushioned Mangrove Stool
+- Cherry Stool
+- Stripped Cherry Stool
+- <dye_color> Cushioned Cherry Stool
+- Pale Oak Stool
+- Stripped Pale Oak Stool
+- <dye_color> Cushioned Pale Oak Stool
+- Crimson Stool
+- Stripped Crimson Stool
+- <dye_color> Cushioned Crimson Stool
+- Warped Stool
+- Stripped Warped Stool
+- <dye_color> Cushioned Warped Stool
 
 ### Tables
-- Oak Wooden Table
-- Spruce Wooden Table
-- Birch Wooden Table
-- Jungle Wooden Table
-- Acacia Wooden Table
-- Dark Oak Wooden Table
-- Mangrove Wooden Table
-- Cherry Wooden Table
-- Pale Aak Wooden Table
-- Crimson Wooden Table
-- Warped Wooden Table
+- Oak Table
+- Stripped Oak Table
+- Spruce Table
+- Stripped Spruce Table
+- Birch Table
+- Stripped Birch Table
+- Jungle Table
+- Stripped Jungle Table
+- Acacia Table
+- Stripped Acacia Table
+- Dark Oak Table
+- Stripped Dark Oak Table
+- Mangrove Table
+- Stripped Mangrove Table
+- Cherry Table
+- Stripped Cherry Table
+- Pale Oak Table
+- Stripped Pale Oak Table
+- Crimson Table
+- Stripped Crimson Table
+- Warped Table
+- Stripped Warped Table
 - Glass Table
 
 ### Glass

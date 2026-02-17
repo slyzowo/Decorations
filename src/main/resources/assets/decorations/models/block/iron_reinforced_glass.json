@@ -1,6 +1,0 @@
-{
-  "parent" : "minecraft:block/cube_all",
-  "textures" : {
-    "all" : "decorations:block/iron_reinforced_glass"
-  }
-}
