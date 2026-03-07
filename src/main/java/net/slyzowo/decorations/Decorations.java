@@ -3,6 +3,7 @@ package net.slyzowo.decorations;
 import net.fabricmc.api.ModInitializer;
 
 import net.slyzowo.decorations.block.ModBlocks;
+import net.slyzowo.decorations.entity.ModEntities;
 import net.slyzowo.decorations.item.ModItemGroups;
 import net.slyzowo.decorations.item.ModItems;
 import org.slf4j.Logger;
@@ -18,5 +19,6 @@ public class Decorations implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModEntities.registerModEntities();
 	}
 }

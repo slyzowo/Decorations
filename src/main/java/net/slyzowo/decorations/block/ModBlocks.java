@@ -202,7 +202,6 @@ public class ModBlocks {
                   .sounds(BlockSoundGroup.NETHER_WOOD)));
 
 
-
   public static final Block PRIDE_WOOL = registerBlock("pride_wool",
           new Block(AbstractBlock.Settings.create()
                   .mapColor(MapColor.RED)
