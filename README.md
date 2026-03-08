@@ -146,6 +146,7 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Gold Firepit
 - Head on a Stick
 - 3 block tall doors
+- Vertical Slabs
 
 ### Plushies
 - Allay
@@ -346,14 +347,3 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Teto's Hair
 - Top hat
 - Vampire fangs
-
-### Chest
-- Bowtie
-- Tie
-- Tuxedo chest (combos with tie and bowtie)
-
-### Pants
-- Tuxedo Pants
-
-### Boots
-- Dress Shoes

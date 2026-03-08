@@ -14,6 +14,31 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
 
   @Override
   public void generate() {
+    addDrop(ModBlocks.OAK_DINING_CHAIR);
+    addDrop(ModBlocks.STRIPPED_OAK_DINING_CHAIR);
+    addDrop(ModBlocks.SPRUCE_DINING_CHAIR);
+    addDrop(ModBlocks.STRIPPED_SPRUCE_DINING_CHAIR);
+    addDrop(ModBlocks.BIRCH_DINING_CHAIR);
+    addDrop(ModBlocks.STRIPPED_BIRCH_DINING_CHAIR);
+    addDrop(ModBlocks.JUNGLE_DINING_CHAIR);
+    addDrop(ModBlocks.STRIPPED_JUNGLE_DINING_CHAIR);
+    addDrop(ModBlocks.ACACIA_DINING_CHAIR);
+    addDrop(ModBlocks.STRIPPED_ACACIA_DINING_CHAIR);
+    addDrop(ModBlocks.DARK_OAK_DINING_CHAIR);
+    addDrop(ModBlocks.STRIPPED_DARK_OAK_DINING_CHAIR);
+    addDrop(ModBlocks.MANGROVE_DINING_CHAIR);
+    addDrop(ModBlocks.STRIPPED_MANGROVE_DINING_CHAIR);
+    addDrop(ModBlocks.CHERRY_DINING_CHAIR);
+    addDrop(ModBlocks.STRIPPED_CHERRY_DINING_CHAIR);
+    addDrop(ModBlocks.PALE_OAK_DINING_CHAIR);
+    addDrop(ModBlocks.STRIPPED_PALE_OAK_DINING_CHAIR);
+    addDrop(ModBlocks.BAMBOO_DINING_CHAIR);
+    addDrop(ModBlocks.STRIPPED_BAMBOO_DINING_CHAIR);
+    addDrop(ModBlocks.CRIMSON_DINING_CHAIR);
+    addDrop(ModBlocks.STRIPPED_CRIMSON_DINING_CHAIR);
+    addDrop(ModBlocks.WARPED_DINING_CHAIR);
+    addDrop(ModBlocks.STRIPPED_WARPED_DINING_CHAIR);
+
     addDrop(ModBlocks.PRIDE_WOOL);
     addDrop(ModBlocks.TRANSGENDER_WOOL);
     addDrop(ModBlocks.COPPER_REINFORCED_GLASS);

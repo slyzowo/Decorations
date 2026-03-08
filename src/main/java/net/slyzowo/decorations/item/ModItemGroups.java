@@ -15,33 +15,33 @@ public class ModItemGroups {
   public static final ItemGroup DECORATIONS_GROUP = Registry.register(Registries.ITEM_GROUP,
   Identifier.of(Decorations.MOD_ID, "decorations_group"),
           FabricItemGroup.builder()
-                  .icon(() -> new ItemStack(ModBlocks.CLEAR_GLASS)) // clear glass as the icon
+                  .icon(() -> new ItemStack(ModBlocks.OAK_DINING_CHAIR)) // Oak Chair as the icon
                   .displayName(Text.translatable("itemgroup.decorations.decorations_group"))
                   .entries(((displayContext, entries) -> {
-                    entries.add(ModBlocks.OAK_CHAIR);
-                    entries.add(ModBlocks.STRIPPED_OAK_CHAIR);
-                    entries.add(ModBlocks.SPRUCE_CHAIR);
-                    entries.add(ModBlocks.STRIPPED_SPRUCE_CHAIR);
-                    entries.add(ModBlocks.BIRCH_CHAIR);
-                    entries.add(ModBlocks.STRIPPED_BIRCH_CHAIR);
-                    entries.add(ModBlocks.JUNGLE_CHAIR);
-                    entries.add(ModBlocks.STRIPPED_JUNGLE_CHAIR);
-                    entries.add(ModBlocks.ACACIA_CHAIR);
-                    entries.add(ModBlocks.STRIPPED_ACACIA_CHAIR);
-                    entries.add(ModBlocks.DARK_OAK_CHAIR);
-                    entries.add(ModBlocks.STRIPPED_DARK_OAK_CHAIR);
-                    entries.add(ModBlocks.MANGROVE_CHAIR);
-                    entries.add(ModBlocks.STRIPPED_MANGROVE_CHAIR);
-                    entries.add(ModBlocks.CHERRY_CHAIR);
-                    entries.add(ModBlocks.STRIPPED_CHERRY_CHAIR);
-                    entries.add(ModBlocks.PALE_OAK_CHAIR);
-                    entries.add(ModBlocks.STRIPPED_PALE_OAK_CHAIR);
-                    entries.add(ModBlocks.BAMBOO_CHAIR);
-                    entries.add(ModBlocks.STRIPPED_BAMBOO_CHAIR);
-                    entries.add(ModBlocks.CRIMSON_CHAIR);
-                    entries.add(ModBlocks.STRIPPED_CRIMSON_CHAIR);
-                    entries.add(ModBlocks.WARPED_CHAIR);
-                    entries.add(ModBlocks.STRIPPED_WARPED_CHAIR);
+                    entries.add(ModBlocks.OAK_DINING_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_OAK_DINING_CHAIR);
+                    entries.add(ModBlocks.SPRUCE_DINING_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_SPRUCE_DINING_CHAIR);
+                    entries.add(ModBlocks.BIRCH_DINING_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_BIRCH_DINING_CHAIR);
+                    entries.add(ModBlocks.JUNGLE_DINING_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_JUNGLE_DINING_CHAIR);
+                    entries.add(ModBlocks.ACACIA_DINING_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_ACACIA_DINING_CHAIR);
+                    entries.add(ModBlocks.DARK_OAK_DINING_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_DARK_OAK_DINING_CHAIR);
+                    entries.add(ModBlocks.MANGROVE_DINING_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_MANGROVE_DINING_CHAIR);
+                    entries.add(ModBlocks.CHERRY_DINING_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_CHERRY_DINING_CHAIR);
+                    entries.add(ModBlocks.PALE_OAK_DINING_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_PALE_OAK_DINING_CHAIR);
+                    entries.add(ModBlocks.BAMBOO_DINING_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_BAMBOO_DINING_CHAIR);
+                    entries.add(ModBlocks.CRIMSON_DINING_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_CRIMSON_DINING_CHAIR);
+                    entries.add(ModBlocks.WARPED_DINING_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_WARPED_DINING_CHAIR);
 
                     entries.add(ModBlocks.CLEAR_GLASS);
                     entries.add(ModBlocks.SCRATCHED_GLASS);
