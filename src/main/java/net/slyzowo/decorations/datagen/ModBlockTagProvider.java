@@ -48,7 +48,32 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
             .add(ModBlocks.CRIMSON_DINING_CHAIR)
             .add(ModBlocks.STRIPPED_CRIMSON_DINING_CHAIR)
             .add(ModBlocks.WARPED_DINING_CHAIR)
-            .add(ModBlocks.STRIPPED_WARPED_DINING_CHAIR);
+            .add(ModBlocks.STRIPPED_WARPED_DINING_CHAIR)
+
+            .add(ModBlocks.OAK_LADDERBACK_CHAIR)
+            .add(ModBlocks.STRIPPED_OAK_LADDERBACK_CHAIR)
+            .add(ModBlocks.SPRUCE_LADDERBACK_CHAIR)
+            .add(ModBlocks.STRIPPED_SPRUCE_LADDERBACK_CHAIR)
+            .add(ModBlocks.BIRCH_LADDERBACK_CHAIR)
+            .add(ModBlocks.STRIPPED_BIRCH_LADDERBACK_CHAIR)
+            .add(ModBlocks.JUNGLE_LADDERBACK_CHAIR)
+            .add(ModBlocks.STRIPPED_JUNGLE_LADDERBACK_CHAIR)
+            .add(ModBlocks.ACACIA_LADDERBACK_CHAIR)
+            .add(ModBlocks.STRIPPED_ACACIA_LADDERBACK_CHAIR)
+            .add(ModBlocks.DARK_OAK_LADDERBACK_CHAIR)
+            .add(ModBlocks.STRIPPED_DARK_OAK_LADDERBACK_CHAIR)
+            .add(ModBlocks.MANGROVE_LADDERBACK_CHAIR)
+            .add(ModBlocks.STRIPPED_MANGROVE_LADDERBACK_CHAIR)
+            .add(ModBlocks.CHERRY_LADDERBACK_CHAIR)
+            .add(ModBlocks.STRIPPED_CHERRY_LADDERBACK_CHAIR)
+            .add(ModBlocks.PALE_OAK_LADDERBACK_CHAIR)
+            .add(ModBlocks.STRIPPED_PALE_OAK_LADDERBACK_CHAIR)
+            .add(ModBlocks.BAMBOO_LADDERBACK_CHAIR)
+            .add(ModBlocks.STRIPPED_BAMBOO_LADDERBACK_CHAIR)
+            .add(ModBlocks.CRIMSON_LADDERBACK_CHAIR)
+            .add(ModBlocks.STRIPPED_CRIMSON_LADDERBACK_CHAIR)
+            .add(ModBlocks.WARPED_LADDERBACK_CHAIR)
+            .add(ModBlocks.STRIPPED_WARPED_LADDERBACK_CHAIR);
 
     getOrCreateTagBuilder(BlockTags.SHOVEL_MINEABLE);
     getOrCreateTagBuilder(BlockTags.HOE_MINEABLE);
@@ -72,6 +97,7 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
 
     getOrCreateTagBuilder(BlockTags.INCORRECT_FOR_GOLD_TOOL)
             .add(ModBlocks.OBSIDIAN_REINFORCED_GLASS);
+
     getOrCreateTagBuilder(BlockTags.INCORRECT_FOR_DIAMOND_TOOL);
 
     getOrCreateTagBuilder(BlockTags.INCORRECT_FOR_NETHERITE_TOOL);

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "multi_bench",
+  "key": {
+    "A": {
+      "item": "minecraft:ladder"
+    },
+    "L": {
+      "item": "minecraft:crimson_stem"
+    },
+    "P": {
+      "item": "minecraft:crimson_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "A  ",
+    "LPL",
+    "S S"
+  ],
+  "result": {
+    "count": 4,
+    "id": "decorations:crimson_ladderback_chair"
+  }
+}

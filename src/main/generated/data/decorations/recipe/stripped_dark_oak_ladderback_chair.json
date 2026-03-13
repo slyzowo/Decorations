@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "multi_bench",
+  "key": {
+    "A": {
+      "item": "minecraft:ladder"
+    },
+    "L": {
+      "item": "minecraft:stripped_dark_oak_log"
+    },
+    "P": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "A  ",
+    "LPL",
+    "S S"
+  ],
+  "result": {
+    "count": 4,
+    "id": "decorations:stripped_dark_oak_ladderback_chair"
+  }
+}

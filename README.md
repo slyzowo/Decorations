@@ -29,75 +29,77 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 
 # Mod Content
 
-### Chairs
-- Oak Chair
-- Stripped Oak Chair
-- <dye_color> Cushioned Oak Chair
-- Spruce Chair
-- Stripped Spruce Chair
-- <dye_color> Cushioned Spruce Chair
-- Birch Chair
-- Stripped Birch Chair
-- <dye_color> Cushioned Birch Chair
-- Jungle Chair
-- Stripped Jungle Chair
-- <dye_color> Cushioned Jungle Chair
-- Acacia Chair
-- Stripped Acacia Chair
-- <dye_color> Cushioned Acacia Chair
-- Dark Oak Chair
-- Stripped Dark Oak Chair
-- <dye_color> Cushioned Dark Oak Chair
-- Mangrove Chair
-- Stripped Mangrove Chair
-- <dye_color> Cushioned Mangrove Chair
-- Cherry Chair
-- Stripped Cherry Chair
-- <dye_color> Cushioned Cherry Chair
-- Pale Oak Chair
-- Stripped Pale Oak Chair
-- <dye_color> Cushioned Pale Oak Chair
-- Crimson Chair
-- Stripped Crimson Chair
-- <dye_color> Cushioned Crimson Chair
-- Warped Chair
-- Stripped Warped Chair
-- <dye_color> Cushioned Warped Chair
+### Dining Chairs
+- Oak Dining Chair
+- Stripped Oak Dining Chair
+- Spruce Dining Chair
+- Stripped Spruce Dining Chair
+- Birch Dining Chair
+- Stripped Birch Dining Chair
+- Jungle Dining Chair
+- Stripped Jungle Dining Chair
+- Acacia Dining Chair
+- Stripped Acacia Dining Chair
+- Dark Oak Dining Chair
+- Stripped Dark Oak Dining Chair
+- Mangrove Dining Chair
+- Stripped Mangrove Dining Chair
+- Cherry Dining Chair
+- Stripped Cherry Dining Chair
+- Pale Oak Dining Chair
+- Stripped Pale Oak Dining Chair
+- Crimson Dining Chair
+- Stripped Crimson Dining Chair
+- Warped Dining Chair
+- Stripped Warped Dining Chair
+
+### LadderBack Chairs
+- Oak Ladderback Chair
+- Stripped Oak Ladderback Chair
+- Spruce Ladderback Chair
+- Stripped Spruce Ladderback Chair
+- Birch Ladderback Chair
+- Stripped Birch Ladderback Chair
+- Jungle Ladderback Chair
+- Stripped Jungle Ladderback Chair
+- Acacia Ladderback Chair
+- Stripped Acacia Ladderback Chair
+- Dark Oak Ladderback Chair
+- Stripped Dark Oak Ladderback Chair
+- Mangrove Ladderback Chair
+- Stripped Mangrove Ladderback Chair
+- Cherry Ladderback Chair
+- Stripped Cherry Ladderback Chair
+- Pale Oak Ladderback Chair
+- Stripped Pale Oak Ladderback Chair
+- Crimson Ladderback Chair
+- Stripped Crimson Ladderback Chair
+- Warped Ladderback Chair
+- Stripped Warped Ladderback Chair
 
 ### Stools
 - Oak Stool
 - Stripped Oak Stool
-- <dye_color> Cushioned Oak Stool
 - Spruce Stool
 - Stripped Spruce Stool
-- <dye_color> Cushioned Spruce Stool
 - Birch Stool
 - Stripped Birch Stool
-- <dye_color> Cushioned Birch Stool
 - Jungle Stool
 - Stripped Jungle Stool
-- <dye_color> Cushioned Jungle Stool
 - Acacia Stool
 - Stripped Acacia Stool
-- <dye_color> Cushioned Acacia Stool
 - Dark Oak Stool
 - Stripped Dark Oak Stool
-- <dye_color> Cushioned Dark Oak Stool
 - Mangrove Stool
 - Stripped Mangrove Stool
-- <dye_color> Cushioned Mangrove Stool
 - Cherry Stool
 - Stripped Cherry Stool
-- <dye_color> Cushioned Cherry Stool
 - Pale Oak Stool
 - Stripped Pale Oak Stool
-- <dye_color> Cushioned Pale Oak Stool
 - Crimson Stool
 - Stripped Crimson Stool
-- <dye_color> Cushioned Crimson Stool
 - Warped Stool
 - Stripped Warped Stool
-- <dye_color> Cushioned Warped Stool
 
 ### Tables
 - Oak Table
@@ -126,7 +128,6 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 
 ### Glass
 - Clear Glass
-- Cracked Glass
 - Scratched Glass
 - Copper Reinforced Glass
 - Iron Reinforced Glass
@@ -138,6 +139,7 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Pride wool
 - Trans wool
 
+<!--
 ### Misc
 - Iron Firepit
 - Iron Grates
@@ -347,3 +349,4 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Teto's Hair
 - Top hat
 - Vampire fangs
+-->

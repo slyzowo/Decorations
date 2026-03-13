@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "multi_bench",
+  "key": {
+    "L": {
+      "item": "minecraft:stripped_warped_stem"
+    },
+    "P": {
+      "item": "minecraft:warped_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "L  ",
+    "LPL",
+    "S S"
+  ],
+  "result": {
+    "count": 4,
+    "id": "decorations:stripped_warped_dining_chair"
+  }
+}

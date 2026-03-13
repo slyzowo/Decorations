@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "multi_bench",
+  "key": {
+    "A": {
+      "item": "minecraft:ladder"
+    },
+    "L": {
+      "item": "minecraft:bamboo_block"
+    },
+    "P": {
+      "item": "minecraft:bamboo_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "A  ",
+    "LPL",
+    "S S"
+  ],
+  "result": {
+    "count": 4,
+    "id": "decorations:bamboo_ladderback_chair"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "multi_bench",
+  "key": {
+    "L": {
+      "item": "minecraft:stripped_acacia_log"
+    },
+    "P": {
+      "item": "minecraft:acacia_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "L  ",
+    "LPL",
+    "S S"
+  ],
+  "result": {
+    "count": 4,
+    "id": "decorations:stripped_acacia_dining_chair"
+  }
+}

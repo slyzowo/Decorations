@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_spruce_log": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:spruce_log"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "decorations:spruce_ladderback_chair"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_spruce_log"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "decorations:spruce_ladderback_chair"
+    ]
+  }
+}

@@ -85,12 +85,93 @@ public class ModBlocks {
   public static final Block STRIPPED_WARPED_DINING_CHAIR = registerBlock("stripped_warped_dining_chair",
           new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.BLUE).strength(0.8F).sounds(BlockSoundGroup.NETHER_WOOD)));
 
+  public static final Block OAK_LADDERBACK_CHAIR = registerBlock("oak_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OAK_TAN).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_OAK_LADDERBACK_CHAIR = registerBlock("stripped_oak_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OAK_TAN).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block SPRUCE_LADDERBACK_CHAIR = registerBlock("spruce_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.SPRUCE_BROWN).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_SPRUCE_LADDERBACK_CHAIR = registerBlock("stripped_spruce_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.SPRUCE_BROWN).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block BIRCH_LADDERBACK_CHAIR = registerBlock("birch_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PALE_YELLOW).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_BIRCH_LADDERBACK_CHAIR = registerBlock("stripped_birch_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PALE_YELLOW).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block JUNGLE_LADDERBACK_CHAIR = registerBlock("jungle_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.ORANGE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_JUNGLE_LADDERBACK_CHAIR = registerBlock("stripped_jungle_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.ORANGE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block ACACIA_LADDERBACK_CHAIR = registerBlock("acacia_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.ORANGE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_ACACIA_LADDERBACK_CHAIR = registerBlock("stripped_acacia_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.ORANGE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block DARK_OAK_LADDERBACK_CHAIR = registerBlock("dark_oak_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.BROWN).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_DARK_OAK_LADDERBACK_CHAIR = registerBlock("stripped_dark_oak_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.BROWN).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block MANGROVE_LADDERBACK_CHAIR = registerBlock("mangrove_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.RED).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_MANGROVE_LADDERBACK_CHAIR = registerBlock("stripped_mangrove_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.GRAY).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block CHERRY_LADDERBACK_CHAIR = registerBlock("cherry_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PINK).strength(0.8F).sounds(BlockSoundGroup.CHERRY_WOOD).burnable()));
+
+  public static final Block STRIPPED_CHERRY_LADDERBACK_CHAIR = registerBlock("stripped_cherry_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PINK).strength(0.8F).sounds(BlockSoundGroup.CHERRY_WOOD).burnable()));
+
+  public static final Block PALE_OAK_LADDERBACK_CHAIR = registerBlock("pale_oak_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OFF_WHITE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_PALE_OAK_LADDERBACK_CHAIR = registerBlock("stripped_pale_oak_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OFF_WHITE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block BAMBOO_LADDERBACK_CHAIR = registerBlock("bamboo_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.YELLOW).strength(0.8F).sounds(BlockSoundGroup.BAMBOO_WOOD).burnable()));
+
+  public static final Block STRIPPED_BAMBOO_LADDERBACK_CHAIR = registerBlock("stripped_bamboo_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.YELLOW).strength(0.8F).sounds(BlockSoundGroup.BAMBOO_WOOD).burnable()));
+
+  public static final Block CRIMSON_LADDERBACK_CHAIR = registerBlock("crimson_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.DARK_CRIMSON).strength(0.8F).sounds(BlockSoundGroup.NETHER_WOOD)));
+
+  public static final Block STRIPPED_CRIMSON_LADDERBACK_CHAIR = registerBlock("stripped_crimson_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.DARK_CRIMSON).strength(0.8F).sounds(BlockSoundGroup.NETHER_WOOD)));
+
+  public static final Block WARPED_LADDERBACK_CHAIR = registerBlock("warped_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.BLUE).strength(0.8F).sounds(BlockSoundGroup.NETHER_WOOD)));
+
+  public static final Block STRIPPED_WARPED_LADDERBACK_CHAIR = registerBlock("stripped_warped_ladderback_chair",
+          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.BLUE).strength(0.8F).sounds(BlockSoundGroup.NETHER_WOOD)));
+
+
   public static final Block PRIDE_WOOL = registerBlock("pride_wool",
           new Block(AbstractBlock.Settings.create().mapColor(MapColor.RED).instrument(NoteBlockInstrument.GUITAR).strength(0.8F)
                   .sounds(BlockSoundGroup.WOOL).burnable()));
 
+  public static final Block PRIDE_CARPET = registerBlock("pride_carpet",
+          new CarpetBlock(AbstractBlock.Settings.create().mapColor(MapColor.RED).instrument(NoteBlockInstrument.GUITAR).strength(0.1F)
+                  .sounds(BlockSoundGroup.WOOL).burnable()));
+
   public static final Block TRANSGENDER_WOOL = registerBlock("transgender_wool",
           new Block(AbstractBlock.Settings.create().mapColor(MapColor.LIGHT_BLUE).instrument(NoteBlockInstrument.GUITAR).strength(0.8F)
+                  .sounds(BlockSoundGroup.WOOL).burnable()));
+
+  public static final Block TRANSGENDER_CARPET = registerBlock("transgender_carpet",
+          new CarpetBlock(AbstractBlock.Settings.create().mapColor(MapColor.LIGHT_BLUE).instrument(NoteBlockInstrument.GUITAR).strength(0.1F)
                   .sounds(BlockSoundGroup.WOOL).burnable()));
 
   public static final Block CLEAR_GLASS = registerBlock("clear_glass",

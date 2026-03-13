@@ -39,6 +39,31 @@ public class ModModelProvider extends FabricModelProvider {
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.WARPED_DINING_CHAIR);
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_WARPED_DINING_CHAIR);
 
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.OAK_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_OAK_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.SPRUCE_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_SPRUCE_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.BIRCH_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_BIRCH_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.JUNGLE_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_JUNGLE_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.ACACIA_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_ACACIA_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.DARK_OAK_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_DARK_OAK_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.MANGROVE_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_MANGROVE_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.CHERRY_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_CHERRY_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.PALE_OAK_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_PALE_OAK_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.BAMBOO_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_BAMBOO_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.CRIMSON_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_CRIMSON_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.WARPED_LADDERBACK_CHAIR);
+    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_WARPED_LADDERBACK_CHAIR);
+
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CLEAR_GLASS);
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.SCRATCHED_GLASS);
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.COPPER_REINFORCED_GLASS);
