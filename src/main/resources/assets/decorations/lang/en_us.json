@@ -51,17 +51,17 @@
   "block.decorations.warped_ladderback_chair" : "Warped Ladderback Chair",
   "block.decorations.stripped_warped_ladderback_chair" : "Stripped Warped Ladderback Chair",
 
-  "block.decorations.clear_glass" : "Clear Glass",
-  "block.decorations.scratched_glass" : "Scratched Glass",
+  "block.decorations.clear_glass" : "[WIP] Clear Glass",
+  "block.decorations.scratched_glass" : "[WIP] Scratched Glass",
   "block.decorations.copper_reinforced_glass" : "Copper Reinforced Glass",
   "block.decorations.iron_reinforced_glass" : "Iron Reinforced Glass",
   "block.decorations.gold_reinforced_glass" : "Gold Reinforced Glass",
   "block.decorations.diamond_reinforced_glass" : "Diamond Reinforced Glass",
   "block.decorations.obsidian_reinforced_glass" : "Obsidian Reinforced Glass",
 
-  "block.decorations.pride_wool" : "Pride Wool",
-  "block.decorations.pride_carpet" : "Pride Carpet",
+  "block.decorations.pride_wool" : "[WIP] Pride Wool",
+  "block.decorations.pride_carpet" : "[WIP] Pride Carpet",
 
-  "block.decorations.transgender_wool" : "Transgender Wool",
-  "block.decorations.transgender_carpet" : "Transgender Carpet"
+  "block.decorations.transgender_wool" : "[WIP] Transgender Wool",
+  "block.decorations.transgender_carpet" : "[WIP] Transgender Carpet"
 }

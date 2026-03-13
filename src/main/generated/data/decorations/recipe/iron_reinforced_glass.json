@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "multi_bench",
+  "key": {
+    "C": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "pattern": [
+    " C ",
+    "CGC",
+    " C "
+  ],
+  "result": {
+    "count": 4,
+    "id": "decorations:iron_reinforced_glass"
+  }
+}

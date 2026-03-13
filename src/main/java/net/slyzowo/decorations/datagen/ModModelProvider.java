@@ -2,8 +2,7 @@ package net.slyzowo.decorations.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
-import net.minecraft.data.client.BlockStateModelGenerator;
-import net.minecraft.data.client.ItemModelGenerator;
+import net.minecraft.data.client.*;
 import net.slyzowo.decorations.block.ModBlocks;
 
 public class ModModelProvider extends FabricModelProvider {
@@ -73,7 +72,9 @@ public class ModModelProvider extends FabricModelProvider {
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.OBSIDIAN_REINFORCED_GLASS);
 
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.TRANSGENDER_WOOL);
+    blockStateModelGenerator.registerSingleton(ModBlocks.PRIDE_WOOL, TexturedModel.CARPET);
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.PRIDE_WOOL);
+    blockStateModelGenerator.registerSingleton(ModBlocks.TRANSGENDER_WOOL, TexturedModel.CARPET);
   }
 
   @Override

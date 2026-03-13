@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "multi_bench",
+  "key": {
+    "C": {
+      "item": "minecraft:obsidian"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "pattern": [
+    " C ",
+    "CGC",
+    " C "
+  ],
+  "result": {
+    "count": 4,
+    "id": "decorations:obsidian_reinforced_glass"
+  }
+}

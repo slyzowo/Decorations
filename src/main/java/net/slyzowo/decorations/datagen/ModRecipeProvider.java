@@ -611,5 +611,53 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                     FabricRecipeProvider.conditionsFromItem(Items.STRIPPED_WARPED_STEM))
             .offerTo(recipeExporter);
 
+    ShapedRecipeJsonBuilder.create(RecipeCategory.BUILDING_BLOCKS, ModBlocks.COPPER_REINFORCED_GLASS, 4)
+            .pattern(" C ")
+            .pattern("CGC")
+            .pattern(" C ")
+            .input('C', Items.COPPER_INGOT)
+            .input('G', Blocks.GLASS)
+            .group("multi_bench")
+            .criterion(
+                    FabricRecipeProvider.hasItem(Items.COPPER_INGOT),
+                    FabricRecipeProvider.conditionsFromItem(Items.COPPER_INGOT))
+            .offerTo(recipeExporter);
+
+    ShapedRecipeJsonBuilder.create(RecipeCategory.BUILDING_BLOCKS, ModBlocks.IRON_REINFORCED_GLASS, 4)
+            .pattern(" C ")
+            .pattern("CGC")
+            .pattern(" C ")
+            .input('C', Items.IRON_INGOT)
+            .input('G', Blocks.GLASS)
+            .group("multi_bench")
+            .criterion(
+                    FabricRecipeProvider.hasItem(Items.IRON_INGOT),
+                    FabricRecipeProvider.conditionsFromItem(Items.IRON_INGOT))
+            .offerTo(recipeExporter);
+
+    ShapedRecipeJsonBuilder.create(RecipeCategory.BUILDING_BLOCKS, ModBlocks.DIAMOND_REINFORCED_GLASS, 4)
+            .pattern(" C ")
+            .pattern("CGC")
+            .pattern(" C ")
+            .input('C', Items.DIAMOND)
+            .input('G', Blocks.GLASS)
+            .group("multi_bench")
+            .criterion(
+                    FabricRecipeProvider.hasItem(Items.DIAMOND),
+                    FabricRecipeProvider.conditionsFromItem(Items.DIAMOND))
+            .offerTo(recipeExporter);
+
+    ShapedRecipeJsonBuilder.create(RecipeCategory.BUILDING_BLOCKS, ModBlocks.OBSIDIAN_REINFORCED_GLASS, 4)
+            .pattern(" C ")
+            .pattern("CGC")
+            .pattern(" C ")
+            .input('C', Items.OBSIDIAN)
+            .input('G', Blocks.GLASS)
+            .group("multi_bench")
+            .criterion(
+                    FabricRecipeProvider.hasItem(Items.OBSIDIAN),
+                    FabricRecipeProvider.conditionsFromItem(Items.OBSIDIAN))
+            .offerTo(recipeExporter);
+
   }
 }

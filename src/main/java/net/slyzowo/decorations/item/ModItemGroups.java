@@ -65,13 +65,13 @@ public class ModItemGroups {
 
                     entries.add(ModBlocks.STRIPPED_CHERRY_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_CHERRY_LADDERBACK_CHAIR);
-
+/*
                     entries.add(ModBlocks.PALE_OAK_DINING_CHAIR);
                     entries.add(ModBlocks.PALE_OAK_LADDERBACK_CHAIR);
 
                     entries.add(ModBlocks.STRIPPED_PALE_OAK_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_PALE_OAK_LADDERBACK_CHAIR);
-
+*/
                     entries.add(ModBlocks.BAMBOO_DINING_CHAIR);
                     entries.add(ModBlocks.BAMBOO_LADDERBACK_CHAIR);
 
