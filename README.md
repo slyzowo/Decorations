@@ -101,6 +101,22 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Warped Stool
 - Stripped Warped Stool
 
+### Glass
+- Clear Glass
+- Scratched Glass
+- Copper Reinforced Glass
+- Iron Reinforced Glass
+- Gold Reinforced Glass
+- Diamond Reinforced Glass
+- Obsidian Reinforced Glass
+
+### Wool Types
+- Pride wool
+- Trans wool
+
+<!--
+
+
 ### Tables
 - Oak Table
 - Stripped Oak Table
@@ -126,20 +142,6 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Stripped Warped Table
 - Glass Table
 
-### Glass
-- Clear Glass
-- Scratched Glass
-- Copper Reinforced Glass
-- Iron Reinforced Glass
-- Gold Reinforced Glass
-- Diamond Reinforced Glass
-- Obsidian Reinforced Glass
-
-### Wool Types
-- Pride wool
-- Trans wool
-
-<!--
 ### Misc
 - Iron Firepit
 - Iron Grates
