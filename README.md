@@ -18,8 +18,6 @@ This mod adds more decorations and furniture to Minecraft.
 ## Language Support
 - English (United States)
 - English (United Kingdom)
-- French (France) 
-- Norwegian (Bokmål)
 
 > [!CAUTION]
 > The Translations will be made with a mix of Google Translate and my own learning of each language.
@@ -77,6 +75,24 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Warped Ladderback Chair
 - Stripped Warped Ladderback Chair
 
+### Glass
+- Clear Glass
+- Scratched Glass
+- Copper Reinforced Glass
+- Iron Reinforced Glass
+- Gold Reinforced Glass
+- Diamond Reinforced Glass
+- Obsidian Reinforced Glass
+
+### Wool Types
+- Pride wool
+- Trans wool
+
+<!--
+
+- French (France) 
+- Norwegian (Bokmål)
+
 ### Stools
 - Oak Stool
 - Stripped Oak Stool
@@ -100,22 +116,6 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Stripped Crimson Stool
 - Warped Stool
 - Stripped Warped Stool
-
-### Glass
-- Clear Glass
-- Scratched Glass
-- Copper Reinforced Glass
-- Iron Reinforced Glass
-- Gold Reinforced Glass
-- Diamond Reinforced Glass
-- Obsidian Reinforced Glass
-
-### Wool Types
-- Pride wool
-- Trans wool
-
-<!--
-
 
 ### Tables
 - Oak Table
