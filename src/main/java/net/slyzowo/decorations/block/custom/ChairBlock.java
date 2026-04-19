@@ -69,7 +69,7 @@ public class ChairBlock extends HorizontalFacingBlock {
   }
 
   @Override
-  protected VoxelShape getOutlineShape(BlockState state, BlockView world, BlockPos pos, ShapeContext context) {
+  protected VoxelShape getOutlineShape(BlockState state, BlockView world, BlockPos pos, ShapeContext context){
     switch ((Direction)state.get(FACING)) {
       case NORTH:
         return NORTH_SHAPE;

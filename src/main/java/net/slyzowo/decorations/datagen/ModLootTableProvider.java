@@ -64,6 +64,31 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
     addDrop(ModBlocks.WARPED_LADDERBACK_CHAIR);
     addDrop(ModBlocks.STRIPPED_WARPED_LADDERBACK_CHAIR);
 
+    addDrop(ModBlocks.OAK_TABLE);
+    addDrop(ModBlocks.STRIPPED_OAK_TABLE);
+    addDrop(ModBlocks.SPRUCE_TABLE);
+    addDrop(ModBlocks.STRIPPED_SPRUCE_TABLE);
+    addDrop(ModBlocks.BIRCH_TABLE);
+    addDrop(ModBlocks.STRIPPED_BIRCH_TABLE);
+    addDrop(ModBlocks.JUNGLE_TABLE);
+    addDrop(ModBlocks.STRIPPED_JUNGLE_TABLE);
+    addDrop(ModBlocks.ACACIA_TABLE);
+    addDrop(ModBlocks.STRIPPED_ACACIA_TABLE);
+    addDrop(ModBlocks.DARK_OAK_TABLE);
+    addDrop(ModBlocks.STRIPPED_DARK_OAK_TABLE);
+    addDrop(ModBlocks.MANGROVE_TABLE);
+    addDrop(ModBlocks.STRIPPED_MANGROVE_TABLE);
+    addDrop(ModBlocks.CHERRY_TABLE);
+    addDrop(ModBlocks.STRIPPED_CHERRY_TABLE);
+    addDrop(ModBlocks.PALE_OAK_TABLE);
+    addDrop(ModBlocks.STRIPPED_PALE_OAK_TABLE);
+    addDrop(ModBlocks.BAMBOO_TABLE);
+    addDrop(ModBlocks.STRIPPED_BAMBOO_TABLE);
+    addDrop(ModBlocks.CRIMSON_TABLE);
+    addDrop(ModBlocks.STRIPPED_CRIMSON_TABLE);
+    addDrop(ModBlocks.WARPED_TABLE);
+    addDrop(ModBlocks.STRIPPED_WARPED_TABLE);
+
     addDrop(ModBlocks.PRIDE_WOOL);
     addDrop(ModBlocks.PRIDE_CARPET);
 

@@ -73,16 +73,46 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
             .add(ModBlocks.CRIMSON_LADDERBACK_CHAIR)
             .add(ModBlocks.STRIPPED_CRIMSON_LADDERBACK_CHAIR)
             .add(ModBlocks.WARPED_LADDERBACK_CHAIR)
-            .add(ModBlocks.STRIPPED_WARPED_LADDERBACK_CHAIR);
+            .add(ModBlocks.STRIPPED_WARPED_LADDERBACK_CHAIR)
+
+            .add(ModBlocks.OAK_TABLE)
+            .add(ModBlocks.STRIPPED_OAK_TABLE)
+            .add(ModBlocks.SPRUCE_TABLE)
+            .add(ModBlocks.STRIPPED_SPRUCE_TABLE)
+            .add(ModBlocks.BIRCH_TABLE)
+            .add(ModBlocks.STRIPPED_BIRCH_TABLE)
+            .add(ModBlocks.JUNGLE_TABLE)
+            .add(ModBlocks.STRIPPED_JUNGLE_TABLE)
+            .add(ModBlocks.ACACIA_TABLE)
+            .add(ModBlocks.STRIPPED_ACACIA_TABLE)
+            .add(ModBlocks.DARK_OAK_TABLE)
+            .add(ModBlocks.STRIPPED_DARK_OAK_TABLE)
+            .add(ModBlocks.MANGROVE_TABLE)
+            .add(ModBlocks.STRIPPED_MANGROVE_TABLE)
+            .add(ModBlocks.CHERRY_TABLE)
+            .add(ModBlocks.STRIPPED_CHERRY_TABLE)
+            .add(ModBlocks.PALE_OAK_TABLE)
+            .add(ModBlocks.STRIPPED_PALE_OAK_TABLE)
+            .add(ModBlocks.BAMBOO_TABLE)
+            .add(ModBlocks.STRIPPED_BAMBOO_TABLE)
+            .add(ModBlocks.CRIMSON_TABLE)
+            .add(ModBlocks.STRIPPED_CRIMSON_TABLE)
+            .add(ModBlocks.WARPED_TABLE)
+            .add(ModBlocks.STRIPPED_WARPED_TABLE);
 
     getOrCreateTagBuilder(BlockTags.SHOVEL_MINEABLE);
     getOrCreateTagBuilder(BlockTags.HOE_MINEABLE);
 
     getOrCreateTagBuilder(BlockTags.DAMPENS_VIBRATIONS)
             .add(ModBlocks.TRANSGENDER_WOOL)
-            .add(ModBlocks.PRIDE_WOOL);
+            .add(ModBlocks.TRANSGENDER_CARPET)
+            .add(ModBlocks.PRIDE_WOOL)
+            .add(ModBlocks.PRIDE_CARPET);
 
-    getOrCreateTagBuilder(BlockTags.NEEDS_STONE_TOOL);
+    getOrCreateTagBuilder(BlockTags.NEEDS_STONE_TOOL)
+            .add(ModBlocks.COPPER_REINFORCED_GLASS)
+            .add(ModBlocks.IRON_REINFORCED_GLASS)
+            .add(ModBlocks.DIAMOND_REINFORCED_GLASS);
 
     getOrCreateTagBuilder(BlockTags.NEEDS_IRON_TOOL);
 

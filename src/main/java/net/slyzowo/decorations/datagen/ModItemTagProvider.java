@@ -72,6 +72,31 @@ public class ModItemTagProvider extends ItemTagProvider {
             .add(ModBlocks.CRIMSON_LADDERBACK_CHAIR.asItem())
             .add(ModBlocks.STRIPPED_CRIMSON_LADDERBACK_CHAIR.asItem())
             .add(ModBlocks.WARPED_LADDERBACK_CHAIR.asItem())
-            .add(ModBlocks.STRIPPED_WARPED_LADDERBACK_CHAIR.asItem());
+            .add(ModBlocks.STRIPPED_WARPED_LADDERBACK_CHAIR.asItem())
+
+            .add(ModBlocks.OAK_TABLE.asItem())
+            .add(ModBlocks.STRIPPED_OAK_TABLE.asItem())
+            .add(ModBlocks.SPRUCE_TABLE.asItem())
+            .add(ModBlocks.STRIPPED_SPRUCE_TABLE.asItem())
+            .add(ModBlocks.BIRCH_TABLE.asItem())
+            .add(ModBlocks.STRIPPED_BIRCH_TABLE.asItem())
+            .add(ModBlocks.JUNGLE_TABLE.asItem())
+            .add(ModBlocks.STRIPPED_JUNGLE_TABLE.asItem())
+            .add(ModBlocks.ACACIA_TABLE.asItem())
+            .add(ModBlocks.STRIPPED_ACACIA_TABLE.asItem())
+            .add(ModBlocks.DARK_OAK_TABLE.asItem())
+            .add(ModBlocks.STRIPPED_DARK_OAK_TABLE.asItem())
+            .add(ModBlocks.MANGROVE_TABLE.asItem())
+            .add(ModBlocks.STRIPPED_MANGROVE_TABLE.asItem())
+            .add(ModBlocks.CHERRY_TABLE.asItem())
+            .add(ModBlocks.STRIPPED_CHERRY_TABLE.asItem())
+            .add(ModBlocks.PALE_OAK_TABLE.asItem())
+            .add(ModBlocks.STRIPPED_PALE_OAK_TABLE.asItem())
+            .add(ModBlocks.BAMBOO_TABLE.asItem())
+            .add(ModBlocks.STRIPPED_BAMBOO_TABLE.asItem())
+            .add(ModBlocks.CRIMSON_TABLE.asItem())
+            .add(ModBlocks.STRIPPED_CRIMSON_TABLE.asItem())
+            .add(ModBlocks.WARPED_TABLE.asItem())
+            .add(ModBlocks.STRIPPED_WARPED_TABLE.asItem());
   }
 }

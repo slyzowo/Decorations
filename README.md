@@ -1,29 +1,21 @@
 # Decorations
-Current Mod Version 0.0.0
 
 This mod adds more decorations and furniture to Minecraft.
-
-## Things to Add
-- [ ] Textures
-- [ ] Blocks
-- [ ] Creative Mode Tab
-- [ ] Data Generation
-- [ ] Recipes
-- [ ] Tags
-- [ ] Tools
-- [ ] Weapons
-- [ ] Armour
-- [ ] Flowers
 
 ## Language Support
 - English (United States)
 - English (United Kingdom)
 
-> [!CAUTION]
-> The Translations will be made with a mix of Google Translate and my own learning of each language.
 
 ## How to Install
+### Manual way
 Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder and place this file in it.
+
+### Modrinth
+https://modrinth.com/mod/decorations
+
+### CurseForge
+I have not posted this mod on CurseForge.
 
 # Mod Content
 
@@ -75,24 +67,6 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Warped Ladderback Chair
 - Stripped Warped Ladderback Chair
 
-### Glass
-- Clear Glass
-- Scratched Glass
-- Copper Reinforced Glass
-- Iron Reinforced Glass
-- Gold Reinforced Glass
-- Diamond Reinforced Glass
-- Obsidian Reinforced Glass
-
-### Wool Types
-- Pride wool
-- Trans wool
-
-<!--
-
-- French (France) 
-- Norwegian (Bokmål)
-
 ### Stools
 - Oak Stool
 - Stripped Oak Stool
@@ -140,7 +114,27 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Stripped Crimson Table
 - Warped Table
 - Stripped Warped Table
-- Glass Table
+
+### Glass
+- Clear Glass
+- Scratched Glass
+- Copper Reinforced Glass
+- Iron Reinforced Glass
+- Gold Reinforced Glass
+- Diamond Reinforced Glass
+- Obsidian Reinforced Glass
+
+### Wool Types
+- Pride wool
+- Trans wool
+
+<!--
+
+- French (France) 
+- Norwegian (Bokmål)
+
+> [!CAUTION]
+> The Translations will be made with a mix of Google Translate and my own learning of each language.
 
 ### Misc
 - Iron Firepit
@@ -151,6 +145,10 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Head on a Stick
 - 3 block tall doors
 - Vertical Slabs
+- Glass Table
+
+### Food
+- Hot Coco
 
 ### Plushies
 - Allay
@@ -162,7 +160,7 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Bogged
 - Breeze
 - Camel
-- Camel Husk​
+- Camel Husk
 - Cat
 - Cave Spider
 - Chicken
@@ -238,7 +236,7 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Wolf
 - Zoglin
 - Zombie
-- Zombie Horse​
+- Zombie Horse
 - Zombie Nautilus
 - Zombie Villager
 - Zombified Piglin
@@ -253,7 +251,7 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Bogged
 - Breeze
 - Camel
-- Camel Husk​
+- Camel Husk
 - Cat
 - Cave Spider
 - Chicken
@@ -322,7 +320,7 @@ Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder an
 - Wither
 - Wolf
 - Zoglin
-- Zombie Horse​
+- Zombie Horse
 - Zombie Nautilus
 - Zombie Villager
 - Zombified Piglin

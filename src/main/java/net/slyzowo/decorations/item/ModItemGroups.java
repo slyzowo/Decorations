@@ -20,75 +20,88 @@ public class ModItemGroups {
                   .entries(((displayContext, entries) -> {
                     entries.add(ModBlocks.OAK_DINING_CHAIR);
                     entries.add(ModBlocks.OAK_LADDERBACK_CHAIR);
-
+                    entries.add(ModBlocks.OAK_TABLE);
                     entries.add(ModBlocks.STRIPPED_OAK_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_OAK_LADDERBACK_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_OAK_TABLE);
 
                     entries.add(ModBlocks.SPRUCE_DINING_CHAIR);
                     entries.add(ModBlocks.SPRUCE_LADDERBACK_CHAIR);
-
+                    entries.add(ModBlocks.SPRUCE_TABLE);
                     entries.add(ModBlocks.STRIPPED_SPRUCE_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_SPRUCE_LADDERBACK_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_SPRUCE_TABLE);
 
                     entries.add(ModBlocks.BIRCH_DINING_CHAIR);
                     entries.add(ModBlocks.BIRCH_LADDERBACK_CHAIR);
-
+                    entries.add(ModBlocks.BIRCH_TABLE);
                     entries.add(ModBlocks.STRIPPED_BIRCH_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_BIRCH_LADDERBACK_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_BIRCH_TABLE);
 
                     entries.add(ModBlocks.JUNGLE_DINING_CHAIR);
                     entries.add(ModBlocks.JUNGLE_LADDERBACK_CHAIR);
-
+                    entries.add(ModBlocks.JUNGLE_TABLE);
                     entries.add(ModBlocks.STRIPPED_JUNGLE_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_JUNGLE_LADDERBACK_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_JUNGLE_TABLE);
 
                     entries.add(ModBlocks.ACACIA_DINING_CHAIR);
                     entries.add(ModBlocks.ACACIA_LADDERBACK_CHAIR);
-
+                    entries.add(ModBlocks.ACACIA_TABLE);
                     entries.add(ModBlocks.STRIPPED_ACACIA_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_ACACIA_LADDERBACK_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_ACACIA_TABLE);
 
                     entries.add(ModBlocks.DARK_OAK_DINING_CHAIR);
                     entries.add(ModBlocks.DARK_OAK_LADDERBACK_CHAIR);
-
+                    entries.add(ModBlocks.DARK_OAK_TABLE);
                     entries.add(ModBlocks.STRIPPED_DARK_OAK_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_DARK_OAK_LADDERBACK_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_DARK_OAK_TABLE);
 
                     entries.add(ModBlocks.MANGROVE_DINING_CHAIR);
                     entries.add(ModBlocks.MANGROVE_LADDERBACK_CHAIR);
-
+                    entries.add(ModBlocks.MANGROVE_TABLE);
                     entries.add(ModBlocks.STRIPPED_MANGROVE_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_MANGROVE_LADDERBACK_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_MANGROVE_TABLE);
 
                     entries.add(ModBlocks.CHERRY_DINING_CHAIR);
                     entries.add(ModBlocks.CHERRY_LADDERBACK_CHAIR);
-
+                    entries.add(ModBlocks.CHERRY_TABLE);
                     entries.add(ModBlocks.STRIPPED_CHERRY_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_CHERRY_LADDERBACK_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_CHERRY_TABLE);
 /*
                     entries.add(ModBlocks.PALE_OAK_DINING_CHAIR);
                     entries.add(ModBlocks.PALE_OAK_LADDERBACK_CHAIR);
+                    entries.add(ModBlocks.PALE_OAK_TABLE);
 
                     entries.add(ModBlocks.STRIPPED_PALE_OAK_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_PALE_OAK_LADDERBACK_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_PALE_OAK_TABLE);
 */
                     entries.add(ModBlocks.BAMBOO_DINING_CHAIR);
                     entries.add(ModBlocks.BAMBOO_LADDERBACK_CHAIR);
-
+                    entries.add(ModBlocks.BAMBOO_TABLE);
                     entries.add(ModBlocks.STRIPPED_BAMBOO_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_BAMBOO_LADDERBACK_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_BAMBOO_TABLE);
 
                     entries.add(ModBlocks.CRIMSON_DINING_CHAIR);
                     entries.add(ModBlocks.CRIMSON_LADDERBACK_CHAIR);
-
+                    entries.add(ModBlocks.CRIMSON_TABLE);
                     entries.add(ModBlocks.STRIPPED_CRIMSON_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_CRIMSON_LADDERBACK_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_CRIMSON_TABLE);
 
                     entries.add(ModBlocks.WARPED_DINING_CHAIR);
                     entries.add(ModBlocks.WARPED_LADDERBACK_CHAIR);
-
+                    entries.add(ModBlocks.WARPED_TABLE);
                     entries.add(ModBlocks.STRIPPED_WARPED_DINING_CHAIR);
                     entries.add(ModBlocks.STRIPPED_WARPED_LADDERBACK_CHAIR);
+                    entries.add(ModBlocks.STRIPPED_WARPED_TABLE);
 
                     entries.add(ModBlocks.CLEAR_GLASS);
                     entries.add(ModBlocks.SCRATCHED_GLASS);

@@ -1,3 +1,7 @@
 {
-  "values": []
+  "values": [
+    "decorations:copper_reinforced_glass",
+    "decorations:iron_reinforced_glass",
+    "decorations:diamond_reinforced_glass"
+  ]
 }

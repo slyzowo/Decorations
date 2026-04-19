@@ -1,7 +1,7 @@
-// 1.21	2026-03-12T20:53:13.9980762	Decorations/Tags for minecraft:block
+// 1.21	2026-04-18T21:48:31.0143906	Decorations/Tags for minecraft:block
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data\minecraft\tags\block\mineable\shovel.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data\minecraft\tags\block\mineable\hoe.json
-762127b02c1e7dbc18d1a9d32723b3ed3a7b438a data\minecraft\tags\block\mineable\axe.json
+e1164bd9e3527e3de44500b1d93a102e26ea303d data\minecraft\tags\block\mineable\axe.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data\minecraft\tags\block\incorrect_for_netherite_tool.json
 9aeb63724d05fb2b04c3bba13bfc9a6a3c3a2487 data\minecraft\tags\block\needs_diamond_tool.json
 a40b3c3e6d8ac7eac4dfb0dd03fac5ac22b09f8c data\minecraft\tags\block\mineable\pickaxe.json
@@ -9,7 +9,7 @@ a40b3c3e6d8ac7eac4dfb0dd03fac5ac22b09f8c data\minecraft\tags\block\mineable\pick
 9aeb63724d05fb2b04c3bba13bfc9a6a3c3a2487 data\minecraft\tags\block\incorrect_for_iron_tool.json
 9aeb63724d05fb2b04c3bba13bfc9a6a3c3a2487 data\minecraft\tags\block\incorrect_for_gold_tool.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data\minecraft\tags\block\incorrect_for_diamond_tool.json
-35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data\minecraft\tags\block\needs_stone_tool.json
-82c4a13db15d14f60e7e22fc9552296cc7acba0f data\minecraft\tags\block\dampens_vibrations.json
+17e7ae3d10dffe7f2fb158debbd9e1307d4b92ef data\minecraft\tags\block\needs_stone_tool.json
+cbd9a80022bfd6631e1bccc60c61d982e09821be data\minecraft\tags\block\dampens_vibrations.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data\minecraft\tags\block\sword_efficient.json
 9aeb63724d05fb2b04c3bba13bfc9a6a3c3a2487 data\minecraft\tags\block\incorrect_for_wooden_tool.json
