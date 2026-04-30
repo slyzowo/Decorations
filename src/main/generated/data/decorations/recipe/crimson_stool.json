@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "multi_bench",
+  "key": {
+    "L": {
+      "item": "minecraft:crimson_stem"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "   ",
+    " L ",
+    "S S"
+  ],
+  "result": {
+    "count": 4,
+    "id": "decorations:crimson_stool"
+  }
+}
