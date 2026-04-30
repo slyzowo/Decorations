@@ -2,6 +2,7 @@ package net.slyzowo.decorations.block;
 
 import net.minecraft.block.*;
 import net.minecraft.block.enums.NoteBlockInstrument;
+import net.minecraft.block.piston.PistonBehavior;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
@@ -63,8 +64,6 @@ public class ModBlocks {
   public static final Block STRIPPED_CHERRY_DINING_CHAIR = registerBlock("stripped_cherry_dining_chair",
           new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PINK).strength(0.8F).sounds(BlockSoundGroup.CHERRY_WOOD).burnable()));
 
-  public static final Block STRIPPED_PALE_OAK_DINING_CHAIR = registerBlock("stripped_pale_oak_dining_chair",
-          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OFF_WHITE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
 
   public static final Block BAMBOO_DINING_CHAIR = registerBlock("bamboo_dining_chair",
           new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.YELLOW).strength(0.8F).sounds(BlockSoundGroup.BAMBOO_WOOD).burnable()));
@@ -132,8 +131,6 @@ public class ModBlocks {
   public static final Block STRIPPED_CHERRY_LADDERBACK_CHAIR = registerBlock("stripped_cherry_ladderback_chair",
           new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PINK).strength(0.8F).sounds(BlockSoundGroup.CHERRY_WOOD).burnable()));
 
-  public static final Block STRIPPED_PALE_OAK_LADDERBACK_CHAIR = registerBlock("stripped_pale_oak_ladderback_chair",
-          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OFF_WHITE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
 
   public static final Block BAMBOO_LADDERBACK_CHAIR = registerBlock("bamboo_ladderback_chair",
           new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.YELLOW).strength(0.8F).sounds(BlockSoundGroup.BAMBOO_WOOD).burnable()));
@@ -201,8 +198,6 @@ public class ModBlocks {
   public static final Block STRIPPED_CHERRY_TABLE = registerBlock("stripped_cherry_table",
           new TableBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PINK).strength(0.8F).sounds(BlockSoundGroup.CHERRY_WOOD).burnable()));
 
-  public static final Block STRIPPED_PALE_OAK_TABLE = registerBlock("stripped_pale_oak_table",
-          new TableBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OFF_WHITE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
 
   public static final Block BAMBOO_TABLE = registerBlock("bamboo_table",
           new TableBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.YELLOW).strength(0.8F).sounds(BlockSoundGroup.BAMBOO_WOOD).burnable()));
@@ -270,9 +265,6 @@ public class ModBlocks {
   public static final Block STRIPPED_CHERRY_STOOL = registerBlock("stripped_cherry_stool",
           new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PINK).strength(0.8F).sounds(BlockSoundGroup.CHERRY_WOOD).burnable()));
 
-  public static final Block STRIPPED_PALE_OAK_STOOL = registerBlock("stripped_pale_oak_stool",
-          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OFF_WHITE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
-
   public static final Block BAMBOO_STOOL = registerBlock("bamboo_stool",
           new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.YELLOW).strength(0.8F).sounds(BlockSoundGroup.BAMBOO_WOOD).burnable()));
 
@@ -299,7 +291,7 @@ public class ModBlocks {
           new CarpetBlock(AbstractBlock.Settings.create().mapColor(MapColor.RED).instrument(NoteBlockInstrument.GUITAR).strength(0.1F)
                   .sounds(BlockSoundGroup.WOOL).burnable()));
 
-  public static final Block TRANSGENDER_WOOL = registerBlock("transgender_wool",
+  public static final Block TRANSGENDER_WOOL = registerBlock("transgender_wool.json",
           new Block(AbstractBlock.Settings.create().mapColor(MapColor.LIGHT_BLUE).instrument(NoteBlockInstrument.GUITAR).strength(0.8F)
                   .sounds(BlockSoundGroup.WOOL).burnable()));
 

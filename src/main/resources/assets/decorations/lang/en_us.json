@@ -7,8 +7,8 @@
   "block.decorations.oak_stool" : "Oak Stool",
   "block.decorations.stripped_oak_dining_chair" : "Stripped Oak Dining Chair",
   "block.decorations.stripped_oak_ladderback_chair" : "Stripped Oak Ladderback Chair",
-  "block.decorations.stripped_oak_stool" : "Stripped Oak Stool",
   "block.decorations.stripped_oak_table" : "Stripped Oak Table",
+  "block.decorations.stripped_oak_stool" : "Stripped Oak Stool",
 
   "block.decorations.spruce_dining_chair" : "Spruce Dining Chair",
   "block.decorations.spruce_ladderback_chair" : "Spruce Ladderback Chair",
@@ -17,6 +17,7 @@
   "block.decorations.stripped_spruce_dining_chair" : "Stripped Spruce Dining Chair",
   "block.decorations.stripped_spruce_ladderback_chair" : "Stripped Spruce Ladderback Chair",
   "block.decorations.stripped_spruce_table" : "Stripped Spruce Table",
+  "block.decorations.stripped_spruce_stool" : "Stripped Spruce Stool",
 
   "block.decorations.birch_dining_chair" : "Birch Dining Chair",
   "block.decorations.birch_ladderback_chair" : "Birch Ladderback Chair",

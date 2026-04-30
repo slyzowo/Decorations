@@ -83,6 +83,29 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
     addDrop(ModBlocks.WARPED_TABLE);
     addDrop(ModBlocks.STRIPPED_WARPED_TABLE);
 
+    addDrop(ModBlocks.OAK_STOOL);
+    addDrop(ModBlocks.STRIPPED_OAK_STOOL);
+    addDrop(ModBlocks.SPRUCE_STOOL);
+    addDrop(ModBlocks.STRIPPED_SPRUCE_STOOL);
+    addDrop(ModBlocks.BIRCH_STOOL);
+    addDrop(ModBlocks.STRIPPED_BIRCH_STOOL);
+    addDrop(ModBlocks.JUNGLE_STOOL);
+    addDrop(ModBlocks.STRIPPED_JUNGLE_STOOL);
+    addDrop(ModBlocks.ACACIA_STOOL);
+    addDrop(ModBlocks.STRIPPED_ACACIA_STOOL);
+    addDrop(ModBlocks.DARK_OAK_STOOL);
+    addDrop(ModBlocks.STRIPPED_DARK_OAK_STOOL);
+    addDrop(ModBlocks.MANGROVE_STOOL);
+    addDrop(ModBlocks.STRIPPED_MANGROVE_STOOL);
+    addDrop(ModBlocks.CHERRY_STOOL);
+    addDrop(ModBlocks.STRIPPED_CHERRY_STOOL);
+    addDrop(ModBlocks.BAMBOO_STOOL);
+    addDrop(ModBlocks.STRIPPED_BAMBOO_STOOL);
+    addDrop(ModBlocks.CRIMSON_STOOL);
+    addDrop(ModBlocks.STRIPPED_CRIMSON_STOOL);
+    addDrop(ModBlocks.WARPED_STOOL);
+    addDrop(ModBlocks.STRIPPED_WARPED_STOOL);
+
     addDrop(ModBlocks.PRIDE_WOOL);
     addDrop(ModBlocks.PRIDE_CARPET);
 

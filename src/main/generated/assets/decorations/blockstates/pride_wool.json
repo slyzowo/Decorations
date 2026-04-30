@@ -1,7 +1,5 @@
 {
   "variants": {
-    "": {
-      "model": "decorations:block/pride_wool"
-    }
+    "": { "model": "decorations:block/pride_wool" }
   }
 }

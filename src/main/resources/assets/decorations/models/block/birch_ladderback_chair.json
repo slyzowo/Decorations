@@ -5,7 +5,7 @@
 		"0": "minecraft:block/birch_log",
 		"1": "minecraft:block/birch_planks",
 		"2": "decorations:block/birch_ladderback",
-		"particle": "minecraft:block/birch_block"
+		"particle": "minecraft:block/birch_log"
 	},
 	"elements": [
 		{
