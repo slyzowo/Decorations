@@ -4,7 +4,7 @@
 		"0": "minecraft:block/stripped_spruce_log",
 		"1": "minecraft:block/spruce_planks",
 		"2": "decorations:block/spruce_ladderback",
-		"particle": "minecraft:block/stripped_spruce_planks"
+		"particle": "minecraft:block/spruce_planks"
 	},
 	"elements": [
 		{

@@ -4,7 +4,7 @@
 		"0": "minecraft:block/stripped_mangrove_log",
 		"1": "minecraft:block/mangrove_planks",
 		"2": "decorations:block/mangrove_ladderback",
-		"particle": "minecraft:block/stripped_mangrove_planks"
+		"particle": "minecraft:block/mangrove_planks"
 	},
 	"elements": [
 		{

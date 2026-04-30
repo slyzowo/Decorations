@@ -29,8 +29,6 @@ public class DecorationsClient implements ClientModInitializer {
     BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.STRIPPED_MANGROVE_LADDERBACK_CHAIR, RenderLayer.getCutout());
     BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.CHERRY_LADDERBACK_CHAIR, RenderLayer.getCutout());
     BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.STRIPPED_CHERRY_LADDERBACK_CHAIR, RenderLayer.getCutout());
-    BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.PALE_OAK_LADDERBACK_CHAIR, RenderLayer.getCutout());
-    BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.STRIPPED_PALE_OAK_LADDERBACK_CHAIR, RenderLayer.getCutout());
     BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.BAMBOO_LADDERBACK_CHAIR, RenderLayer.getCutout());
     BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.STRIPPED_BAMBOO_LADDERBACK_CHAIR, RenderLayer.getCutout());
     BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.CRIMSON_LADDERBACK_CHAIR, RenderLayer.getCutout());

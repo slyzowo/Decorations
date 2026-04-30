@@ -10,6 +10,7 @@ import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 import net.slyzowo.decorations.Decorations;
 import net.slyzowo.decorations.block.custom.ChairBlock;
+import net.slyzowo.decorations.block.custom.StoolBlock;
 import net.slyzowo.decorations.block.custom.TableBlock;
 
 public class ModBlocks {
@@ -61,9 +62,6 @@ public class ModBlocks {
 
   public static final Block STRIPPED_CHERRY_DINING_CHAIR = registerBlock("stripped_cherry_dining_chair",
           new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PINK).strength(0.8F).sounds(BlockSoundGroup.CHERRY_WOOD).burnable()));
-
-  public static final Block PALE_OAK_DINING_CHAIR = registerBlock("pale_oak_dining_chair",
-          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OFF_WHITE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
 
   public static final Block STRIPPED_PALE_OAK_DINING_CHAIR = registerBlock("stripped_pale_oak_dining_chair",
           new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OFF_WHITE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
@@ -134,9 +132,6 @@ public class ModBlocks {
   public static final Block STRIPPED_CHERRY_LADDERBACK_CHAIR = registerBlock("stripped_cherry_ladderback_chair",
           new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PINK).strength(0.8F).sounds(BlockSoundGroup.CHERRY_WOOD).burnable()));
 
-  public static final Block PALE_OAK_LADDERBACK_CHAIR = registerBlock("pale_oak_ladderback_chair",
-          new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OFF_WHITE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
-
   public static final Block STRIPPED_PALE_OAK_LADDERBACK_CHAIR = registerBlock("stripped_pale_oak_ladderback_chair",
           new ChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OFF_WHITE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
 
@@ -206,9 +201,6 @@ public class ModBlocks {
   public static final Block STRIPPED_CHERRY_TABLE = registerBlock("stripped_cherry_table",
           new TableBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PINK).strength(0.8F).sounds(BlockSoundGroup.CHERRY_WOOD).burnable()));
 
-  public static final Block PALE_OAK_TABLE = registerBlock("pale_oak_table",
-          new TableBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OFF_WHITE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
-
   public static final Block STRIPPED_PALE_OAK_TABLE = registerBlock("stripped_pale_oak_table",
           new TableBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OFF_WHITE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
 
@@ -229,6 +221,75 @@ public class ModBlocks {
 
   public static final Block STRIPPED_WARPED_TABLE = registerBlock("stripped_warped_table",
           new TableBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.BLUE).strength(0.8F).sounds(BlockSoundGroup.NETHER_WOOD)));
+
+  public static final Block OAK_STOOL = registerBlock("oak_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OAK_TAN).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_OAK_STOOL = registerBlock("stripped_oak_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OAK_TAN).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block SPRUCE_STOOL = registerBlock("spruce_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.SPRUCE_BROWN).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_SPRUCE_STOOL = registerBlock("stripped_spruce_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.SPRUCE_BROWN).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block BIRCH_STOOL = registerBlock("birch_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PALE_YELLOW).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_BIRCH_STOOL = registerBlock("stripped_birch_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PALE_YELLOW).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block JUNGLE_STOOL = registerBlock("jungle_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.ORANGE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_JUNGLE_STOOL = registerBlock("stripped_jungle_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.ORANGE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block ACACIA_STOOL = registerBlock("acacia_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.ORANGE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_ACACIA_STOOL = registerBlock("stripped_acacia_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.ORANGE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block DARK_OAK_STOOL = registerBlock("dark_oak_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.BROWN).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_DARK_OAK_STOOL = registerBlock("stripped_dark_oak_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.BROWN).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block MANGROVE_STOOL = registerBlock("mangrove_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.RED).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block STRIPPED_MANGROVE_STOOL = registerBlock("stripped_mangrove_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.GRAY).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block CHERRY_STOOL = registerBlock("cherry_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PINK).strength(0.8F).sounds(BlockSoundGroup.CHERRY_WOOD).burnable()));
+
+  public static final Block STRIPPED_CHERRY_STOOL = registerBlock("stripped_cherry_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.PINK).strength(0.8F).sounds(BlockSoundGroup.CHERRY_WOOD).burnable()));
+
+  public static final Block STRIPPED_PALE_OAK_STOOL = registerBlock("stripped_pale_oak_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.OFF_WHITE).strength(0.8F).sounds(BlockSoundGroup.WOOD).burnable()));
+
+  public static final Block BAMBOO_STOOL = registerBlock("bamboo_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.YELLOW).strength(0.8F).sounds(BlockSoundGroup.BAMBOO_WOOD).burnable()));
+
+  public static final Block STRIPPED_BAMBOO_STOOL = registerBlock("stripped_bamboo_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.YELLOW).strength(0.8F).sounds(BlockSoundGroup.BAMBOO_WOOD).burnable()));
+
+  public static final Block CRIMSON_STOOL = registerBlock("crimson_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.DARK_CRIMSON).strength(0.8F).sounds(BlockSoundGroup.NETHER_WOOD)));
+
+  public static final Block STRIPPED_CRIMSON_STOOL = registerBlock("stripped_crimson_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.DARK_CRIMSON).strength(0.8F).sounds(BlockSoundGroup.NETHER_WOOD)));
+
+  public static final Block WARPED_STOOL = registerBlock("warped_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.BLUE).strength(0.8F).sounds(BlockSoundGroup.NETHER_WOOD)));
+
+  public static final Block STRIPPED_WARPED_STOOL = registerBlock("stripped_warped_stool",
+          new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.BLUE).strength(0.8F).sounds(BlockSoundGroup.NETHER_WOOD)));
 
   public static final Block PRIDE_WOOL = registerBlock("pride_wool",
           new Block(AbstractBlock.Settings.create().mapColor(MapColor.RED).instrument(NoteBlockInstrument.GUITAR).strength(0.8F)

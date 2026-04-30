@@ -4,7 +4,7 @@
 		"0": "minecraft:block/stripped_warped_stem",
 		"1": "minecraft:block/warped_planks",
 		"2": "decorations:block/warped_ladderback",
-		"particle": "minecraft:block/stripped_warped_planks"
+		"particle": "minecraft:block/warped_planks"
 	},
 	"elements": [
 		{

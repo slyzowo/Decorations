@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "decorations:block/transgender_wool",
+    "0": "decorations:block/transgender_wool"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 1, 16],
+      "faces": {
+        "up":    { "texture": "#0", "cullface": "up" },
+        "down":  { "texture": "#0", "cullface": "down" },
+        "north": { "texture": "#0", "cullface": "north" },
+        "south": { "texture": "#0", "cullface": "south" },
+        "west":  { "texture": "#0", "cullface": "west" },
+        "east":  { "texture": "#0", "cullface": "east" }
+      }
+    }
+  ]
+}

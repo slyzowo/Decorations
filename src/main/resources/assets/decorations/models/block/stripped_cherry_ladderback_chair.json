@@ -4,7 +4,7 @@
 		"0": "minecraft:block/stripped_cherry_log",
 		"1": "minecraft:block/cherry_planks",
 		"2": "decorations:block/cherry_ladderback",
-		"particle": "minecraft:block/stripped_cherry_planks"
+		"particle": "minecraft:block/cherry_planks"
 	},
 	"elements": [
 		{

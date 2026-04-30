@@ -2,9 +2,9 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/oak_log",
-		"1": "block/oak_planks",
-		"particle": "block/oak_log"
+		"0": "minecraft:block/oak_log",
+		"1": "minecraft:block/oak_planks",
+		"particle": "minecraft:block/oak_log"
 	},
 	"elements": [
 		{

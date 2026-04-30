@@ -4,7 +4,7 @@
 		"0": "minecraft:block/stripped_dark_oak_log",
 		"1": "minecraft:block/dark_oak_planks",
 		"2": "decorations:block/dark_oak_ladderback",
-		"particle": "minecraft:block/stripped_dark_oak_planks"
+		"particle": "minecraft:block/dark_oak_planks"
 	},
 	"elements": [
 		{

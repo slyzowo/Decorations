@@ -30,8 +30,6 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
     addDrop(ModBlocks.STRIPPED_MANGROVE_DINING_CHAIR);
     addDrop(ModBlocks.CHERRY_DINING_CHAIR);
     addDrop(ModBlocks.STRIPPED_CHERRY_DINING_CHAIR);
-    addDrop(ModBlocks.PALE_OAK_DINING_CHAIR);
-    addDrop(ModBlocks.STRIPPED_PALE_OAK_DINING_CHAIR);
     addDrop(ModBlocks.BAMBOO_DINING_CHAIR);
     addDrop(ModBlocks.STRIPPED_BAMBOO_DINING_CHAIR);
     addDrop(ModBlocks.CRIMSON_DINING_CHAIR);
@@ -55,8 +53,6 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
     addDrop(ModBlocks.STRIPPED_MANGROVE_LADDERBACK_CHAIR);
     addDrop(ModBlocks.CHERRY_LADDERBACK_CHAIR);
     addDrop(ModBlocks.STRIPPED_CHERRY_LADDERBACK_CHAIR);
-    addDrop(ModBlocks.PALE_OAK_LADDERBACK_CHAIR);
-    addDrop(ModBlocks.STRIPPED_PALE_OAK_LADDERBACK_CHAIR);
     addDrop(ModBlocks.BAMBOO_LADDERBACK_CHAIR);
     addDrop(ModBlocks.STRIPPED_BAMBOO_LADDERBACK_CHAIR);
     addDrop(ModBlocks.CRIMSON_LADDERBACK_CHAIR);
@@ -80,8 +76,6 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
     addDrop(ModBlocks.STRIPPED_MANGROVE_TABLE);
     addDrop(ModBlocks.CHERRY_TABLE);
     addDrop(ModBlocks.STRIPPED_CHERRY_TABLE);
-    addDrop(ModBlocks.PALE_OAK_TABLE);
-    addDrop(ModBlocks.STRIPPED_PALE_OAK_TABLE);
     addDrop(ModBlocks.BAMBOO_TABLE);
     addDrop(ModBlocks.STRIPPED_BAMBOO_TABLE);
     addDrop(ModBlocks.CRIMSON_TABLE);

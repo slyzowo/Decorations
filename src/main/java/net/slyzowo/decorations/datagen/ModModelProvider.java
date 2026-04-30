@@ -29,8 +29,6 @@ public class ModModelProvider extends FabricModelProvider {
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_MANGROVE_DINING_CHAIR);
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.CHERRY_DINING_CHAIR);
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_CHERRY_DINING_CHAIR);
-    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.PALE_OAK_DINING_CHAIR);
-    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_PALE_OAK_DINING_CHAIR);
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.BAMBOO_DINING_CHAIR);
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_BAMBOO_DINING_CHAIR);
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.CRIMSON_DINING_CHAIR);
@@ -54,8 +52,6 @@ public class ModModelProvider extends FabricModelProvider {
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_MANGROVE_LADDERBACK_CHAIR);
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.CHERRY_LADDERBACK_CHAIR);
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_CHERRY_LADDERBACK_CHAIR);
-    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.PALE_OAK_LADDERBACK_CHAIR);
-    blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_PALE_OAK_LADDERBACK_CHAIR);
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.BAMBOO_LADDERBACK_CHAIR);
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STRIPPED_BAMBOO_LADDERBACK_CHAIR);
     blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.CRIMSON_LADDERBACK_CHAIR);
@@ -79,14 +75,35 @@ public class ModModelProvider extends FabricModelProvider {
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_MANGROVE_TABLE);
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CHERRY_TABLE);
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_CHERRY_TABLE);
-    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.PALE_OAK_TABLE);
-    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_PALE_OAK_TABLE);
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BAMBOO_TABLE);
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_BAMBOO_TABLE);
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRIMSON_TABLE);
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_CRIMSON_TABLE);
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.WARPED_TABLE);
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_WARPED_TABLE);
+
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.OAK_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_OAK_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.SPRUCE_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_SPRUCE_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BIRCH_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_BIRCH_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.JUNGLE_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_JUNGLE_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.ACACIA_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_ACACIA_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.DARK_OAK_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_DARK_OAK_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.MANGROVE_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_MANGROVE_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CHERRY_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_CHERRY_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BAMBOO_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_BAMBOO_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRIMSON_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_CRIMSON_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.WARPED_STOOL);
+    blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STRIPPED_WARPED_STOOL);
 
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CLEAR_GLASS);
     blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.SCRATCHED_GLASS);

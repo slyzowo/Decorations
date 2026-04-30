@@ -53,13 +53,17 @@ public class ChairBlock extends HorizontalFacingBlock {
 
   @Override
   public ActionResult onUse(BlockState state, World world, BlockPos pos, PlayerEntity player, BlockHitResult hit) {
+
     if(!world.isClient()) {
-      Entity entity = null;
+      Entity entity;
+
       List<ChairEntity> entities = world.getEntitiesByType(ModEntities.CHAIR, new Box(pos), chair -> true);
+
       if(entities.isEmpty()) {
         entity = ModEntities.CHAIR.spawn((ServerWorld) world, pos, SpawnReason.TRIGGERED);
-      } else {
-        entity = entities.get(0);
+      }
+      else {
+        entity = entities.getFirst();
       }
 
       player.startRiding(entity);
@@ -70,18 +74,13 @@ public class ChairBlock extends HorizontalFacingBlock {
 
   @Override
   protected VoxelShape getOutlineShape(BlockState state, BlockView world, BlockPos pos, ShapeContext context){
-    switch ((Direction)state.get(FACING)) {
-      case NORTH:
-        return NORTH_SHAPE;
-      case SOUTH:
-        return SOUTH_SHAPE;
-      case EAST:
-        return EAST_SHAPE;
-      case WEST:
-        return WEST_SHAPE;
-      default:
-        return BASE_CHAIR_SHAPE;
-    }
+    return switch ((Direction) state.get(FACING)) {
+      case NORTH -> NORTH_SHAPE;
+      case SOUTH -> SOUTH_SHAPE;
+      case EAST -> EAST_SHAPE;
+      case WEST -> WEST_SHAPE;
+      default -> BASE_CHAIR_SHAPE;
+    };
   }
 
   @Override
@@ -100,3 +99,4 @@ public class ChairBlock extends HorizontalFacingBlock {
     builder.add(FACING);
   }
 }
+

@@ -4,7 +4,7 @@
 		"0": "minecraft:block/stripped_jungle_log",
 		"1": "minecraft:block/jungle_planks",
 		"2": "decorations:block/jungle_ladderback",
-		"particle": "minecraft:block/stripped_jungle_planks"
+		"particle": "minecraft:block/jungle_planks"
 	},
 	"elements": [
 		{

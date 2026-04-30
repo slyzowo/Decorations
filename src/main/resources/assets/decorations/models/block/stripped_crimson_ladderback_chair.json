@@ -4,7 +4,7 @@
 		"0": "minecraft:block/stripped_crimson_stem",
 		"1": "minecraft:block/crimson_planks",
 		"2": "decorations:block/crimson_ladderback",
-		"particle": "minecraft:block/stripped_crimson_planks"
+		"particle": "minecraft:block/crimson_planks"
 	},
 	"elements": [
 		{
