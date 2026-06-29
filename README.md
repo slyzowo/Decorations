@@ -127,3 +127,6 @@ I have not posted this mod on CurseForge.
 ### Wool Types
 - Pride wool
 - Trans wool
+
+# Known Bugs
+- Chair block and Chair Entity are not tied to each other, will fix as soon as I figure out how.
