@@ -1,4 +1,4 @@
-package net.slyzowo.decorations.block.custom;
+package net.slyzowo.decorations.block.Tables;
 
 import com.mojang.serialization.MapCodec;
 import net.minecraft.block.Block;

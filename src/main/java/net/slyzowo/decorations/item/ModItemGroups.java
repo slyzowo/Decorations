@@ -117,6 +117,8 @@ public class ModItemGroups {
                     entries.add(ModBlocks.STRIPPED_WARPED_TABLE);
                     entries.add(ModBlocks.STRIPPED_WARPED_STOOL);
 
+                    entries.add(ModBlocks.FROGGY_CHAIR);
+
                     entries.add(ModBlocks.CLEAR_GLASS);
                     entries.add(ModBlocks.SCRATCHED_GLASS);
                     entries.add(ModBlocks.COPPER_REINFORCED_GLASS);

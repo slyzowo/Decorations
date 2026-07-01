@@ -1,18 +1,22 @@
 package net.slyzowo.decorations.block;
 
+// Minecraft libraries
 import net.minecraft.block.*;
 import net.minecraft.block.enums.NoteBlockInstrument;
-import net.minecraft.block.piston.PistonBehavior;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
+
+// Decorations parts
 import net.slyzowo.decorations.Decorations;
-import net.slyzowo.decorations.block.custom.ChairBlock;
-import net.slyzowo.decorations.block.custom.StoolBlock;
-import net.slyzowo.decorations.block.custom.TableBlock;
+import net.slyzowo.decorations.block.Chairs.ChairBlock;
+import net.slyzowo.decorations.block.Chairs.StoolBlock;
+import net.slyzowo.decorations.block.Chairs.FroggyChairBlock;
+import net.slyzowo.decorations.block.Chairs.BenchBlock;
+import net.slyzowo.decorations.block.Tables.TableBlock;
 
 public class ModBlocks {
 
@@ -283,6 +287,9 @@ public class ModBlocks {
   public static final Block STRIPPED_WARPED_STOOL = registerBlock("stripped_warped_stool",
           new StoolBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.BLUE).strength(0.8F).sounds(BlockSoundGroup.NETHER_WOOD)));
 
+  public static final Block FROGGY_CHAIR = registerBlock("froggy_chair",
+          new FroggyChairBlock(AbstractBlock.Settings.create().nonOpaque().mapColor(MapColor.BLUE).strength(0.8F).sounds(BlockSoundGroup.NETHER_WOOD)));
+
   public static final Block PRIDE_WOOL = registerBlock("pride_wool",
           new Block(AbstractBlock.Settings.create().mapColor(MapColor.RED).instrument(NoteBlockInstrument.GUITAR).strength(0.8F)
                   .sounds(BlockSoundGroup.WOOL).burnable()));
@@ -291,7 +298,7 @@ public class ModBlocks {
           new CarpetBlock(AbstractBlock.Settings.create().mapColor(MapColor.RED).instrument(NoteBlockInstrument.GUITAR).strength(0.1F)
                   .sounds(BlockSoundGroup.WOOL).burnable()));
 
-  public static final Block TRANSGENDER_WOOL = registerBlock("transgender_wool.json",
+  public static final Block TRANSGENDER_WOOL = registerBlock("transgender_wool",
           new Block(AbstractBlock.Settings.create().mapColor(MapColor.LIGHT_BLUE).instrument(NoteBlockInstrument.GUITAR).strength(0.8F)
                   .sounds(BlockSoundGroup.WOOL).burnable()));
 

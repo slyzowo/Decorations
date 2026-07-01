@@ -1,4 +1,4 @@
-package net.slyzowo.decorations.block.custom;
+package net.slyzowo.decorations.block.Chairs;
 
 import com.mojang.serialization.MapCodec;
 import net.minecraft.block.Block;
@@ -13,12 +13,11 @@ import net.minecraft.server.world.ServerWorld;
 import net.minecraft.state.StateManager;
 import net.minecraft.util.ActionResult;
 import net.minecraft.util.math.BlockPos;
-import net.minecraft.util.math.Direction;
 import net.minecraft.util.shape.VoxelShape;
 import net.minecraft.util.shape.VoxelShapes;
 import net.minecraft.world.BlockView;
 import net.slyzowo.decorations.entity.ModEntities;
-import net.slyzowo.decorations.entity.custom.ChairEntity;
+import net.slyzowo.decorations.entity.ChairEntity;
 import org.jetbrains.annotations.Nullable;
 import net.minecraft.util.hit.BlockHitResult;
 import net.minecraft.util.math.Box;
@@ -74,7 +73,7 @@ public class ChairBlock extends HorizontalFacingBlock {
 
   @Override
   protected VoxelShape getOutlineShape(BlockState state, BlockView world, BlockPos pos, ShapeContext context){
-    return switch ((Direction) state.get(FACING)) {
+    return switch (state.get(FACING)) {
       case NORTH -> NORTH_SHAPE;
       case SOUTH -> SOUTH_SHAPE;
       case EAST -> EAST_SHAPE;

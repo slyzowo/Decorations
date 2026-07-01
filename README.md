@@ -6,7 +6,6 @@ This mod adds more decorations and furniture to Minecraft.
 - English (United States)
 - English (United Kingdom)
 
-
 ## How to Install
 ### Manual way
 Go to `C:\Users\yourname\AppData\Roaming\.minecraft` and make a `mods` folder and place this file in it.
@@ -18,6 +17,12 @@ https://modrinth.com/mod/decorations
 I have not posted this mod on CurseForge.
 
 # Mod Content
+- [Dining Chairs](#dining-chairs)
+- [Ladderback Chairs](#ladderback-chairs)
+- [Extra Chairs](#extra-chairs)
+- [Tables](#tables)
+- [Glass](#glass)
+- [Wool](#wool)
 
 ### Dining Chairs
 - Oak Dining Chair
@@ -66,6 +71,9 @@ I have not posted this mod on CurseForge.
 - Stripped Crimson Ladderback Chair
 - Warped Ladderback Chair
 - Stripped Warped Ladderback Chair
+
+### Extra Chairs
+- Froggy Chair
 
 ### Stools
 - Oak Stool
@@ -124,7 +132,7 @@ I have not posted this mod on CurseForge.
 - Diamond Reinforced Glass
 - Obsidian Reinforced Glass
 
-### Wool Types
+### Wool
 - Pride wool
 - Trans wool
 

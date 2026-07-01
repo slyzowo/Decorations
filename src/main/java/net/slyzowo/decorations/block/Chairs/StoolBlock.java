@@ -1,4 +1,4 @@
-package net.slyzowo.decorations.block.custom;
+package net.slyzowo.decorations.block.Chairs;
 
 import com.mojang.serialization.MapCodec;
 import net.minecraft.block.Block;
@@ -17,7 +17,7 @@ import net.minecraft.util.shape.VoxelShapes;
 import net.minecraft.world.BlockView;
 import net.minecraft.world.World;
 import net.slyzowo.decorations.entity.ModEntities;
-import net.slyzowo.decorations.entity.custom.ChairEntity;
+import net.slyzowo.decorations.entity.ChairEntity;
 
 import java.util.List;
 

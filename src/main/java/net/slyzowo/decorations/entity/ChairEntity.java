@@ -1,4 +1,4 @@
-package net.slyzowo.decorations.entity.custom;
+package net.slyzowo.decorations.entity;
 
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityType;

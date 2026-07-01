@@ -3,9 +3,8 @@ package net.slyzowo.decorations.entity.client;
 import net.minecraft.client.render.Frustum;
 import net.minecraft.client.render.entity.EntityRenderer;
 import net.minecraft.client.render.entity.EntityRendererFactory;
-import net.minecraft.entity.Entity;
 import net.minecraft.util.Identifier;
-import net.slyzowo.decorations.entity.custom.ChairEntity;
+import net.slyzowo.decorations.entity.ChairEntity;
 
 public class ChairRenderer extends EntityRenderer<ChairEntity>{
   public ChairRenderer(EntityRendererFactory.Context ctx) {
