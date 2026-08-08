@@ -5,6 +5,8 @@ This mod adds more decorations and furniture to Minecraft.
 ### Table of Contents
 - [Language Support](#language-support)
 - [How To Install](#how-to-install)
+  - [Modrinth](#modrinth)
+  - [Curseforge](#curseforge)
 - [Mod Content](#mod-content)
   - [Dining Chairs](#dining-chairs)
   - [Ladderback Chairs](#ladderback-chairs)
