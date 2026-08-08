@@ -2,6 +2,21 @@
 
 This mod adds more decorations and furniture to Minecraft.
 
+### Table of Contents
+- [Language Support](#language-support)
+- [How To Install](#how-to-install)
+- [Mod Content](#mod-content)
+  - [Dining Chairs](#dining-chairs)
+  - [Ladderback Chairs](#ladderback-chairs)
+  - [Extra Chairs](#extra-chairs)
+  - [Stools](#stools)
+  - [Tables](#tables)
+  - [Glass](#glass)
+  - [Wool](#wool)
+- [Known Bugs](#known-bugs)
+- [License](#license)
+- [Authors](#authors)
+
 ## Language Support
 - English (United States)
 - English (United Kingdom)
@@ -136,5 +151,11 @@ I have not posted this mod on CurseForge.
 - Pride wool
 - Trans wool
 
-# Known Bugs
+## Known Bugs
 - Chair block and Chair Entity are not tied to each other, will fix as soon as I figure out how.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Authors
+slyzowo
