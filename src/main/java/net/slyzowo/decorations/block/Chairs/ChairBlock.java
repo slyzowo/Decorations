@@ -72,6 +72,19 @@ public class ChairBlock extends HorizontalFacingBlock {
   }
 
   @Override
+  public void onStateReplaced(BlockState state, World world, BlockPos pos, BlockState newState, boolean moved){
+    if (!world.isClient && !state.isOf(newState.getBlock())) {
+      Box box = new Box(pos);
+
+      for (ChairEntity chair : world.getEntitiesByClass(ChairEntity.class, box, Entity::isAlive)){
+        chair.discard();
+      }
+    }
+
+    super.onStateReplaced(state, world, pos, newState, moved);
+  }
+
+  @Override
   protected VoxelShape getOutlineShape(BlockState state, BlockView world, BlockPos pos, ShapeContext context){
     return switch (state.get(FACING)) {
       case NORTH -> NORTH_SHAPE;
@@ -81,6 +94,8 @@ public class ChairBlock extends HorizontalFacingBlock {
       default -> BASE_CHAIR_SHAPE;
     };
   }
+
+
 
   @Override
   protected MapCodec<? extends HorizontalFacingBlock> getCodec() {
