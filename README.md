@@ -15,13 +15,15 @@ This mod adds more decorations and furniture to Minecraft.
   - [Tables](#tables)
   - [Glass](#glass)
   - [Wool](#wool)
-- [Known Bugs](#known-bugs)
 - [License](#license)
 - [Authors](#authors)
 
 ## Language Support
 - English (United States)
 - English (United Kingdom)
+
+# Dependencies
+FabricAPI: [Modrinth](https://modrinth.com/mod/fabric-api), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
 ## How to Install
 ### Manual way
@@ -152,9 +154,6 @@ I have not posted this mod on CurseForge.
 ### Wool
 - Pride wool
 - Trans wool
-
-## Known Bugs
-- Chair block and Chair Entity are not tied to each other, will fix as soon as I figure out how.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
