@@ -1,4 +1,4 @@
-package net.slyzowo.decorations.block.Chairs;
+package net.slyzowo.decorations.block;
 
 import com.mojang.serialization.MapCodec;
 import net.minecraft.block.Block;

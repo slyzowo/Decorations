@@ -1,4 +1,4 @@
-package net.slyzowo.decorations.block.Chairs;
+package net.slyzowo.decorations.block;
 
 import com.mojang.serialization.MapCodec;
 import net.minecraft.block.Block;
@@ -24,7 +24,7 @@ import net.minecraft.util.math.Box;
 import net.minecraft.world.World;
 import java.util.List;
 
-public class ChairBlock extends HorizontalFacingBlock {
+public class ChairBlock extends Seat {
   public static final MapCodec<ChairBlock> CODEC = createCodec(ChairBlock::new);
   private static final VoxelShape CHAIR_BOTTOM_SHAPE = Block.createCuboidShape(2.0, 0.0, 2.0, 14.0, 9.0, 14.0);
   private static final VoxelShape BASE_CHAIR_SHAPE = VoxelShapes.union(CHAIR_BOTTOM_SHAPE);
@@ -94,8 +94,6 @@ public class ChairBlock extends HorizontalFacingBlock {
       default -> BASE_CHAIR_SHAPE;
     };
   }
-
-
 
   @Override
   protected MapCodec<? extends HorizontalFacingBlock> getCodec() {
